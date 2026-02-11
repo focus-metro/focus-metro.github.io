@@ -7,11 +7,11 @@ http://62.131.195.211:8086/8.ts
 #EXTINF:-1 tvg-name="Z SELECT" group-title="SPOR",Z SELECT
 #EXTVLCOPT:network-caching=1000
 http://62.131.195.211:8086/0.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 1.tr yedek" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="Spor", Bein Sports 1 HD
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr yedek" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR", Bein Sports 1 HD
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://biraz.7486038.xyz/checklist/androstreamlivebiraz1.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="Spor", Bein Sports 1 HD yedek
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR", Bein Sports 1 HD yedek
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 2.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png" group-title="Spor", Bein Sports 2 HD
+#EXTINF:-1 tvg-id="beIN SPORTS 2.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png" group-title="SPOR", Bein Sports 2 HD
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs2.m3u8
 #EXTINF:-1 tvg-name="ESPN" group-title="YABANCITV",ESPN
 #EXTVLCOPT:network-caching=1000
@@ -22,11 +22,11 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD.tr" tvg-name="NATIONAL GEOGRAPHIC HD.tr" tvg-logo="https://photoville.nyc/wp-content/uploads/2022/05/ng_2flush_blackyellow_rgb.png" group-title="BELGESEL",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTINF:-1 tvg-id="BBC EARTH.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/Bj/11896/Thumbnail.png?v=636996527021886315" group-title="Belgesel", BBC EARTH HD
+#EXTINF:-1 tvg-id="BBC EARTH.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/Bj/11896/Thumbnail.png?v=636996527021886315" group-title="BELGESEL", BBC EARTH HD
 https://ds.ayakkabiparti.lol/bbc/index.m3u8
-#EXTINF:-1 tvg-id="TARİH TV.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/1/Fd/58626/Thumbnail.png?v=638288263696795101" group-title="Belgesel", Tarih TV HD
+#EXTINF:-1 tvg-id="TARİH TV.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/1/Fd/58626/Thumbnail.png?v=638288263696795101" group-title="BELGESEL", Tarih TV HD
 https://ds.ayakkabiparti.lol/tarihtv/index.m3u8
-#EXTINF:-1 tvg-id="History Channel.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/y/Ey/37198/Thumbnail.png?v=637554127141657600" group-title="Belgesel", HISTORY HD
+#EXTINF:-1 tvg-id="History Channel.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/y/Ey/37198/Thumbnail.png?v=637554127141657600" group-title="BELGESEL", HISTORY HD
 https://ds.ayakkabiparti.lol/history/index.m3u8
 #EXTINF:-1 tvg-id="TERRA.Ru"tvg-logo="https://i.imgur.com/ZxUjCpF.png" group-title="BELGESEL",TERRA
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
@@ -38,7 +38,7 @@ https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="MTurkTV.tr" tvg-logo="https://www.muglaturk.com/files/uploads/logo/34c7514c18.png" group-title="SEYİR",MTürk TV
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="TABII TV" tvg-logo="https://tvplus.com.tr/_next/image?url=https%3A%2F%2Fgbzottvsc20.tvplus.com.tr%3A33207%2FCPS%2Fimages%2Funiversal%2Ffilm%2Flogo%2F202506%2F20250623%2F94%2F1009257324535eb9542c_op_0_XL.webp&w=128&q=75" group-title="Dizi", Tabii TV HD
+#EXTINF:-1 tvg-id="TABII TV" tvg-logo="https://tvplus.com.tr/_next/image?url=https%3A%2F%2Fgbzottvsc20.tvplus.com.tr%3A33207%2FCPS%2Fimages%2Funiversal%2Ffilm%2Flogo%2F202506%2F20250623%2F94%2F1009257324535eb9542c_op_0_XL.webp&w=128&q=75" group-title="GENEL", Tabii TV HD
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-name="LIFE TV" tvg-id="" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="SEYİR",LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
