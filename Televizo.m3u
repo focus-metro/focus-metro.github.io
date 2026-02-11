@@ -13,7 +13,7 @@ https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://biraz.7486038.xyz/check
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 2.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png" group-title="SPOR", Bein Sports 2 HD
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-name="ESPN" group-title="YABANCITV",ESPN
+#EXTINF:-1 tvg-name="ESPN" group-title="SPOR",ESPN
 #EXTVLCOPT:network-caching=1000
 http://62.131.195.211:8086/4.ts
 #EXTINF:-1 tvg-id="TRT BELGESEL HD.tr" tvg-name="TRT BELGESEL HD.tr" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="BELGESEL",TRT BELGESEL
