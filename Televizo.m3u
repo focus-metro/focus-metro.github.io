@@ -156,7 +156,7 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="KANAL 7 HD.tr" tvg-name="KANAL 7 HD.tr" tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png" group-title="SEYİR",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-id="KANAL 7 AVRUPA HD.tr" tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png" group-title="SEYİR",KANAL 7 AVRUPA
+#EXTINF:-1 tvg-id="KANAL 7 AVR HD.tr" tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png" group-title="SEYİR",KANAL 7 AVRUPA
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-id="BENGÜTÜRK.tr" tvg-name="BENGÜTÜRK.tr" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png "group-title="SEYİR",BENGÜ TÜRK
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
@@ -178,13 +178,13 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_48
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
 #EXTINF:-1 tvg-id="BABYTV.tr" tvg-name="BABYTV.tr" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="ÇOCUK",BABY TV
 https://saran-live.ercdn.net/babytv/index.m3u8
-#EXTINF:-1 tvg-id="DISNEY JUNIOR.tr" tvg-logo="https://cdn.ssportplus.com/35/3165/pTdVMnEb5953/pTdVMnEb5953.jpg" group-title="ÇOCUK", DISNEY JR.
+#EXTINF:-1 tvg-id="DISNEY JUNIOR HD.tr" tvg-logo="https://cdn.ssportplus.com/35/3165/pTdVMnEb5953/pTdVMnEb5953.jpg" group-title="ÇOCUK", DISNEY JR.
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
-#EXTINF:-1 tvg-id="TJKTV.tr" tvg-name="TJKTV.tr" tvg-logo="https://i.ibb.co/0Yt6jbg/tjk.png" group-title="SPOR",TJK TV
+#EXTINF:-1 tvg-id="TJKTV HD.tr" tvg-name="TJKTV.tr" tvg-logo="https://i.ibb.co/0Yt6jbg/tjk.png" group-title="SPOR",TJK TV
 https://tjktv-live.tjk.org/tjktv.m3u8
-#EXTINF:-1 tvg-id="TJKTV.tr" tvg-name="TJKTV.tr" tvg-logo="https://i.ibb.co/0Yt6jbg/tjk.png" group-title="SPOR",TJK TV
+#EXTINF:-1 tvg-id="TJKTV HD.tr" tvg-name="TJKTV.tr" tvg-logo="https://i.ibb.co/0Yt6jbg/tjk.png" group-title="SPOR",TJK TV
 https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
-#EXTINF:-1 tvg-id="TAYTV.tr" tvg-name="TAYTV.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/3446fb88-4fb6-4e6f-aa5d-9eed92efbb97.png" group-title="SPOR",TAY TV
+#EXTINF:-1 tvg-id="TAYTV HD.tr" tvg-name="TAYTV.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/3446fb88-4fb6-4e6f-aa5d-9eed92efbb97.png" group-title="SPOR",TAY TV
 https://streams.uzunmuhalefet.com/stream/fbee70a1-4177-4906-86cc-525432cef179.m3u8
 #EXTINF:-1 tvg-id="TRT SPOR HD.tr" tvg-name="TRT SPOR HD.tr" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="SPOR",TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
