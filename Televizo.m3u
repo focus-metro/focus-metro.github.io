@@ -156,7 +156,7 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="KANAL 7 HD.tr" tvg-name="KANAL 7 HD.tr" tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png" group-title="SEYİR",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-id="KANAL 7 AVRUPA" tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png" group-title="SEYİR",KANAL 7 AVRUPA
+#EXTINF:-1 tvg-id="KANAL 7 AVRUPA HD.tr" tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png" group-title="SEYİR",KANAL 7 AVRUPA
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-id="BENGÜTÜRK.tr" tvg-name="BENGÜTÜRK.tr" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png "group-title="SEYİR",BENGÜ TÜRK
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
