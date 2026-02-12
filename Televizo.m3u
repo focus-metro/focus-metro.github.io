@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml, https://www.open-epg.com/files/turkey2.xml, https://www.open-epg.com/files/turkey1.xml, https://iptv-epg.org/files/epg-tr.xml"
 #EXTINF:-1 tvg-id="S SPORT.tr" tvg-name="S SPORT.tr" tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png" group-title="SPOR",SPORTS TV
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="EUROSPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/960px-Eurosport_1_Logo_2015.svg.png" group-title="SPOR",EUROSPORT 1
+#EXTINF:-1 tvg-id="EUROSPORT 1 HD.tr" tvg-name="EUROSPORT 1 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/960px-Eurosport_1_Logo_2015.svg.png" group-title="SPOR",EUROSPORT 1
 #EXTVLCOPT:network-caching=1000
 http://62.131.195.211:8086/8.ts
 #EXTINF:-1 tvg-id="Ziggo Sport" tvg-name="Ziggo Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Ziggo_Sport_Logo.jpg" group-title="SPOR",Ziggo Sport
