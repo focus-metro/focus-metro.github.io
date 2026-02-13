@@ -4,7 +4,7 @@ https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 tvg-id="EUROSPORT 1 HD.tr" tvg-name="EUROSPORT 1 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/960px-Eurosport_1_Logo_2015.svg.png" group-title="SPOR",EUROSPORT 1
 #EXTVLCOPT:network-caching=1000
 http://62.131.195.211:8086/8.ts
-#EXTINF:-1 tvg-id="Ziggo Sport" tvg-name="Ziggo Sport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/ziggo-sport-nl.png" group-title="SPOR",Ziggo Sport
+#EXTINF:-1 tvg-id="Ziggo Sport" tvg-name="Ziggo Sport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/6eb616fe6058217ca2b13623a0851f1987026865/countries/netherlands/ziggo-sport-nl.png" group-title="SPOR",Ziggo Sport
 #EXTVLCOPT:network-caching=1000
 http://62.131.195.211:8086/0.ts
 #EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-name="beIN SPORTS 1.tr"tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR", Bein Sports 1 HD
