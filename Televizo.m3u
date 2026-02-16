@@ -91,9 +91,9 @@ http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
 #EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-name="SHOW TV HD.tr" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="GENEL",SHOW
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png"group-title="GENEL",SHOW TÜRK
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
+https:\/\/ciner-live.ercdn.net\/showturk\/playlist.m3u8?e=1771252677&st=02himcoti1HzgtoNYlfWiA&tv=1
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="ShowMax.tr" tvg-logo="https://i.ibb.co/kxjKk89/showmax.png" group-title="GENEL",SHOW MAX
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
+https://ciner-live.ercdn.net//showmax//playlist.m3u8?e=1771252196&st=PrT22epBHvAZM_2ZFwkv7Q&tv=1
 #EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-name="STAR TV HD.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="GENEL",STAR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
 #EXTINF:-1 tvg-id="Euro Star.tr" tvg-name="Euro Star.tr" tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png" group-title="GENEL",EURO STAR
