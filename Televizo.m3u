@@ -22,6 +22,8 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD.tr" tvg-name="NATIONAL GEOGRAPHIC HD.tr" tvg-logo="https://photoville.nyc/wp-content/uploads/2022/05/ng_2flush_blackyellow_rgb.png" group-title="BELGESEL",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
+#EXTINF:-1 tvg-name="LIFE TV" tvg-id="" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="SEYİR",LIFE TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC EARTH.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/Bj/11896/Thumbnail.png?v=636996527021886315" group-title="BELGESEL", BBC EARTH HD
 https://ds.ayakkabiparti.lol/bbc/index.m3u8
 #EXTINF:-1 tvg-id="TARİH TV.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/1/Fd/58626/Thumbnail.png?v=638288263696795101" group-title="BELGESEL", Tarih TV HD
@@ -40,8 +42,6 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="tabii TV.tr" tvg-logo="https://tvplus.com.tr/_next/image?url=https%3A%2F%2Fgbzottvsc20.tvplus.com.tr%3A33207%2FCPS%2Fimages%2Funiversal%2Ffilm%2Flogo%2F202506%2F20250623%2F94%2F1009257324535eb9542c_op_0_XL.webp&w=128&q=75" group-title="DİZİ", Tabii TV HD
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-name="LIFE TV" tvg-id="" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="SEYİR",LIFE TV
-https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:-1 tvg-id="MOVİESMART TURK.HD.tr" tvg-name="MOVİESMART TURK.HD.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/ZI/13863/Thumbnail.png?v=636987856299906443" group-title="SİNEMA", Moviesmart Türk HD
 https://ds.ayakkabiparti.lol/mvturk/index.m3u8
 #EXTINF:-1 tvg-id="SİNEMA 1 HD.tr" tvg-name="SİNEMA 1 HD.tr" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="SİNEMA",SiNEMA 1
@@ -67,7 +67,7 @@ https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:-1 tvg-id="HALK TV.tr" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png"group-title="HABER",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-id="SÖZCÜ TV.tr" tvg-name="SÖZCÜ TV.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="HABER",SÖZCÜ TV
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
+https://trn03.tulix.tv/gt-sozcu-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT HABER HD.tr" tvg-name="TRT HABER HD.tr" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="HABER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-name="TRT1 HD.tr" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="|TR|🇹🇷 ULUSAL",TRT 1
