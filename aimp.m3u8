@@ -1,0 +1,157 @@
+#EXTM3U
+#EXTINF:-1,PowerDeep
+https://listen.powerapp.com.tr/powerdeep/abr/powerdeep/128/playlist.m3u8
+#EXTINF:-1,Loops Radio Elektronica
+https://ssl22.radyotelekom.com/8232/stream
+#EXTINF:-1,Loops Radio Progressive
+https://progressive.ozelip.com/7670/stream
+#EXTINF:-1,PowerApp Dance
+https://listen.powerapp.com.tr/powerdance/mpeg/icecast.audio
+#EXTINF:-1,PoweXL
+https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/96/playlist.m3u8
+#EXTINF:-1,Dinamo Fm Locodyno
+http://channels.dinamo.fm/locodyno-mp3
+#EXTINF:-1,Dinamo fm Legacy
+http://channels.dinamo.fm/legacy-mp3
+#EXTINF:-1,Best Fm
+http://37.247.100.100/best/bestfm.stream/playlist.m3u8
+#EXTINF:-1,Alem Fm
+http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
+#EXTINF:-1,Süper Fm
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC?/;
+#EXTINF:-1,Süper Fm2
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC?/;
+#EXTINF:-1,Istanbul Fm
+https://yayin.istanbulfm.com.tr/istanbulfm?/;stream.mp3
+#EXTINF:-1,Radyo Viva
+http://46.20.3.231/;
+#EXTINF:-1,Show Radyo
+http://46.20.3.229/;
+#EXTINF:-1,PowerApp Pop
+https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8 
+#EXTINF:-1,Mydonose Türk
+https://27913.live.streamtheworld.com/MYDONOSE_TURK128AAC.aac?/;stream.mp3
+#EXTINF:-1,RADYO MEGA
+https://radyo.yayin.com.tr:4052/;
+#EXTINF:-1,Radyo Fenomen
+https://live.radyofenomen.com/fenomen/128/icecast.audio
+#EXTINF:-1,Fenomen Türk
+https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8
+#EXTINF:-1,Power türk
+https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8
+#EXTINF:-1,Power Türk Akustik
+https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8
+#EXTINF:-1,Joy Türk Rock
+https://27873.live.streamtheworld.com:443/JOYTURK_ROCK_SC?/
+#EXTINF:-1,Power Türk Dance
+https://listen.powerapp.com.tr/powerturkdans/abr/powerturkdans/128/playlist.m3u8
+#EXTINF:-1,Slowturk
+https://radyo.duhnet.tv/ak_dtvh_slowturk
+#EXTINF:-1,Joy Türk
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC?/;
+#EXTINF:-1,Pal Nostalji
+https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
+#EXTINF:-1,Pal Fm
+http://shoutcast.radyogrup.com:1030/stream/1;
+#EXTINF:-1,Numberone Turk
+https://n10101m.mediatriple.net/numberoneturk
+#EXTINF:-1,Radyo Net
+https://anadolu.liderhost.com.tr/8052/stream
+#EXTINF:-1,Doksanlar "90"
+http://37.247.98.8/stream/166/
+#EXTINF:-1,Radyo Arebesk
+https://yayin.radyoarabesk.com.tr:8000/stream
+#EXTINF:-1,DamarTurk Fm
+https://live.radyositesihazir.com:10997/;
+#EXTINF:-1,Kral Fm
+http://kralwmp.radyotvonline.com:80
+#EXTINF:-1,Kral Türk FM
+https://live.radyositesihazir.com/8032/stream
+#EXTINF:-1,Kral Fm
+https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
+#EXTINF:-1,Kral Pop
+https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
+#EXTINF:-1,Roman Fm
+https://stream.zeno.fm/netvowp5t54uv
+#EXTINF:-1,Radyo Seymen
+https://yayin.radyoseymen.com.tr:1070/stream
+#EXTINF:-1,Ege Havaları
+http://37.247.98.8/stream/29/
+#EXTINF:-1,Denizli Oyun Havaları
+https://radyo.radyoimza.com/8034/stream
+#EXTINF:-1,Ostim Radyo
+https://stream.netradyom.com/radio/8010/radio.mp3
+#EXTINF:-1,Diyarbakır Dogan Radyo
+http://yayin1.yayindakiler.com:3024/;stream.nsv
+#EXTINF:-1,Radyo Ekin
+http://yayin.turkhosted.com:6006/;
+#EXTINF:-1,Türkü Radyo
+http://radyo.turkuradyo.net:4591/turkuradyo
+#EXTINF:-1,Dadaş Fm Erzurum
+https://sslyayin.netyayin.net:8084/stream/;stream.mp3
+#EXTINF:-1,Yozgat Fm
+https://sslyayin.netyayin.net:10921/stream
+#EXTINF:-1,Pal Doga
+http://shoutcast.radyogrup.com:1040/
+#EXTINF:-1,Radyo 35
+https://yayin.turkhosted.com/6012/stream
+#EXTINF:-1,Radyo Trio
+http://radyotrio.radyotvonline.net/radyotrio
+#EXTINF:-1,Kiss Türk
+https://kiss.radyotvonline.net/kissturk
+#EXTINF:-1,Raadyo 45 lik
+https://stream.radyo45lik.com:4545/
+#EXTINF:-1,Radyo Alaturka
+https://yayin.jumboserver.net:9100/stream
+#EXTINF:-1,Retro Türk
+https://25703.live.streamtheworld.com:443/RETROTURK_SC?/;
+#EXTINF:-1,Turkuvaz Musiki
+https://trkvz-radyolar.ercdn.net/turkuvazmusiki/playlist.m3u8
+#EXTINF:-1,Altın Şarkılar
+https://moondigitalmaster.radyotvonline.net/altinsarkilar/playlist.m3u8
+#EXTINF:-1,Radyo 42
+https://a8.asurahosting.com/hls/radyo_42_fm_medya_konya_pr_music/live.m3u8
+#EXTINF:-1,Radyo Kürd
+https://listen.radioking.com/radio/119251/stream/158701
+#EXTINF:-1,Dinamo Fm Deep
+http://channels.dinamo.fm/deep-mp3
+#EXTINF:-1,Dinamo Fm fluent
+http://channels.dinamo.fm/fluent-mp3
+#EXTINF:-1,Fenomen Clubbin
+https://live.radyofenomen.com/fenomenclubbin/128/icecast.audio
+#EXTINF:-1,Power R&G HipHop
+https://listen.powerapp.com.tr/powerrbhiphop/256/chunks.m3u8
+#EXTINF:-1,Dinamo Fm Discotheque
+http://channels.dinamo.fm/discotheque-mp3
+#EXTINF:-1,Future Genaration
+https://edge1.radyotvonline.net/shoutcast/play/fg
+#EXTINF:-1,Lopps Radyo Techno
+https://ip179.ozelip.com/7688//asistan/stream/
+#EXTINF:-1,Fenomen Dance
+https://live.radyofenomen.com/fenomendans/abr/fenomendans/128/chunks.m3u8
+#EXTINF:-1,Fenomen Karışık
+https://live.radyofenomen.com/fenomenkarisik/abr/fenomenkarisik/128/chunks.m3u8
+#EXTINF:-1,NumberOne
+https://n10101m.mediatriple.net/numberone
+#EXTINF:-1,Power FM
+https://listen.powerapp.com.tr/powerfm/256/chunks.m3u8
+#EXTINF:-1,Metro Fm
+https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_SC?/;
+#EXTINF:-1,Fenomen Pop
+https://live.radyofenomen.com/fenomenpop/abr/fenomenpop/128/chunks.m3u8
+#EXTINF:-1,Feomen 2010
+https://live.radyofenomen.com/fenomen2010/256/chunks.m3u8
+#EXTINF:-1,Joy Fm
+http://28563.live.streamtheworld.com/JOY_FMAAC_SC
+#EXTINF:-1,PowerApp Power Lowe
+https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8
+#EXTINF:-1,PowerApp Lowe
+https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1,Dinamo Fm Sleep
+http://channels.dinamo.fm/sleep-mp3
+#EXTINF:-1,Power Earth
+http://listen.powerapp.com.tr/powerearth/abr/playlist.m3u8
+#EXTINF:-1,Numberone world
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8
+#EXTINF:-1,Fenomen Akustic
+https://live.radyofenomen.com/fenomenakustik/abr/fenomenakustik/128/chunks.m3u8
