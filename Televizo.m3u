@@ -66,7 +66,7 @@ https://streams.uzunmuhalefet.com/stream/2ffa76f2-5c2b-4f98-b29b-9bbda2f75ad6.m3
 #EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-name="STAR TV HD.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="GENEL",STAR
 https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 #EXTINF:-1 tvg-id="Euro Star.tr" tvg-name="Euro Star.tr" tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png" group-title="GENEL",EURO STAR
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
+http://titan.tgrpanel.xyz:8080/live/kaan35tufkci/tufekci35kn/519.ts
 #EXTINF:-1 tvg-id="KANAL D HD.tr" tvg-name="KANAL D HD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="GENEL",KANAL D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 tvg-id="Euro D.tr" tvg-name="Euro D.tr" tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png" group-title="GENEL",EURO D
