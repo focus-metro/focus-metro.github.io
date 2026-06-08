@@ -42,7 +42,7 @@ https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:-1 tvg-id="HALK TV.tr" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png"group-title="HABER",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-id="SÖZCÜ TV.tr" tvg-name="SÖZCÜ TV.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="HABER",SÖZCÜ TV
-https://diyanetcocuk.testworkery0.workers.dev/?ch=sozcu
+http://titan.tgrpanel.xyz:8080/live/kaan35tufkci/tufekci35kn/152896.ts
 #EXTINF:-1 tvg-id="TRT HABER HD.tr" tvg-name="TRT HABER HD.tr" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="HABER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-name="TRT1 HD.tr" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="|TR|🇹🇷 ULUSAL",TRT 1
@@ -60,7 +60,7 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="GENEL",NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="ATV HD.tr" tvg-name="ATV HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="GENEL",ATV
-http://89.187.191.41/ATV-HD-TR/video.m3u8
+http://titan.tgrpanel.xyz:8080/live/kaan35tufkci/tufekci35kn/333.ts
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png" group-title="GENEL",ATV AVRUPA
 https://streams.uzunmuhalefet.com/stream/017621fb-d6f1-4e21-91d8-2510bdcb4ceb.m3u8"
 #EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-name="SHOW TV HD.tr" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="GENEL",SHOW
@@ -74,7 +74,7 @@ https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-2
 #EXTINF:-1 tvg-id="Euro Star.tr" tvg-name="Euro Star.tr" tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png" group-title="GENEL",EURO STAR
 http://titan.tgrpanel.xyz:8080/live/kaan35tufkci/tufekci35kn/519.ts
 #EXTINF:-1 tvg-id="KANAL D HD.tr" tvg-name="KANAL D HD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="GENEL",KANAL D
-http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+http://titan.tgrpanel.xyz:8080/live/kaan35tufkci/tufekci35kn/152911.ts
 #EXTINF:-1 tvg-id="Euro D.tr" tvg-name="Euro D.tr" tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png" group-title="GENEL",EURO D
 https://streams.uzunmuhalefet.com/stream/864c7cfd-0427-4997-b2dc-31b4aee312c9.m3u8
 #EXTINF:-1 tvg-id="TV8 HD.tr" tvg-name="TV8 HD.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="GENEL",TV8
