@@ -112,7 +112,7 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-id="24 HD.tr" tvg-name="24 HD.tr" tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="SEYİR",24 TV
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="TVNET HD.tr" tvg-name="TVNET HD.tr" tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="SEYİR",TV NET
-http://live.yt-hls.workers.dev/UC8rh34IlJTN0lDZlTwzWzjg.m3u8
+http://titan.tgrpanel.xyz:8080/live/kaan35tufkci/tufekci35kn/363.ts
 #EXTINF:-1 tvg-id="ÜLKE TV HD.tr" tvg-name="ÜLKE TV HD.tr" tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="SEYİR",ÜLKE
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/K6BKFqY/dha.png" group-title="HABER",DHA
@@ -130,7 +130,7 @@ https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-id="FLASH HABER.tr" tvg-name="FLASH HABER.tr" tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="SEYİR",FLASH HABER
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 #EXTINF:-1 tvg-id="KRT TV.tr" tvg-name="KRT TV.tr" tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png" group-title="SEYİR",KRT
-http://live.yt-hls.workers.dev/UCVKWwHoLwUMMa80cu_1uapA.m3u8
+http://titan.tgrpanel.xyz:8080/live/kaan35tufkci/tufekci35kn/356.ts
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/GQdBjZfW/finansturk.png"group-title="FİNANS",FİNANS TÜRK
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERG HT HD.tr" tvg-name="BLOOMBERG HT HD.tr" tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="FİNANS",BLOOMBERG HT
