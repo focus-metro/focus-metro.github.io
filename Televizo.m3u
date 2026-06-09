@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="TRT BELGESEL HD.tr" tvg-name="TRT BELGESEL HD.tr" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="BELGESEL",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC WILD HD.tr" tvg-name="NATIONAL GEOGRAPHIC WILD HD.tr" tvg-logo="https://static.tildacdn.com/tild6166-6432-4865-a130-393430326636/112.png" group-title="BELGESEL",National Geographic Wild
-http://titan.tgrpanel.xyz:8080/live/kaan35tufkci/tufekci35kn/152881.ts
+http://nextiptv.pro:8080/yasarp/palaz07@/486
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD.tr" tvg-name="NATIONAL GEOGRAPHIC HD.tr" tvg-logo="https://photoville.nyc/wp-content/uploads/2022/05/ng_2flush_blackyellow_rgb.png" group-title="BELGESEL",National Geographic
-http://titan.tgrpanel.xyz:8080/live/kaan35tufkci/tufekci35kn/152880.ts
+http://nextiptv.pro:8080/yasarp/palaz07@/17121
 #EXTINF:-1 tvg-id="Ecovision" tvg-logo="https://i.imgur.com/pPCqTMR.png" group-title="BELGESEL",Ecovisión
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ppn5oJy.png" group-title="BELGESEL",KTOO360 FNX TV
@@ -12,7 +12,7 @@ https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m
 #EXTINF:-1 tvg-id="CGTN Documentary.tr" tvg-name="CGTN Documentary.tr" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="BELGESEL",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="MOVİESMART TURK.HD.tr" tvg-name="MOVİESMART TURK.HD.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/ZI/13863/Thumbnail.png?v=636987856299906443" group-title="SİNEMA", Moviesmart Türk HD
-http://titan.tgrpanel.xyz:8080/live/kaan35tufkci/tufekci35kn/152873.ts
+http://nextiptv.pro:8080/yasarp/palaz07@/349
 #EXTINF:-1 tvg-name="LIFE TV" tvg-id="" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="SEYİR",LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:-1 tvg-id="MTurkTV.tr" tvg-logo="https://www.muglaturk.com/files/uploads/logo/34c7514c18.png" group-title="SEYİR",MTürk TV
@@ -42,7 +42,7 @@ https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:-1 tvg-id="HALK TV.tr" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png"group-title="HABER",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-id="SÖZCÜ TV.tr" tvg-name="SÖZCÜ TV.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="HABER",SÖZCÜ TV
-http://titan.tgrpanel.xyz:8080/live/kaan35tufkci/tufekci35kn/152896.ts
+http://nextiptv.pro:8080/yasarp/palaz07@/269066
 #EXTINF:-1 tvg-id="TRT HABER HD.tr" tvg-name="TRT HABER HD.tr" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="HABER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-name="TRT1 HD.tr" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="|TR|🇹🇷 ULUSAL",TRT 1
@@ -60,9 +60,9 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="GENEL",NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="ATV HD.tr" tvg-name="ATV HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="GENEL",ATV
-http://titan.tgrpanel.xyz:8080/live/kaan35tufkci/tufekci35kn/333.ts
+http://nextiptv.pro:8080/nazmiunsalTRR/fQ3FwKmm4J/231
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png" group-title="GENEL",ATV AVRUPA
-https://streams.uzunmuhalefet.com/stream/017621fb-d6f1-4e21-91d8-2510bdcb4ceb.m3u8"
+http://nextiptv.pro:8080/yasarp/palaz07@/240
 #EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-name="SHOW TV HD.tr" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="GENEL",SHOW
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png"group-title="GENEL",SHOW TÜRK
@@ -72,9 +72,9 @@ https://streams.uzunmuhalefet.com/stream/2ffa76f2-5c2b-4f98-b29b-9bbda2f75ad6.m3
 #EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-name="STAR TV HD.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="GENEL",STAR
 https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 #EXTINF:-1 tvg-id="Euro Star.tr" tvg-name="Euro Star.tr" tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png" group-title="GENEL",EURO STAR
-http://titan.tgrpanel.xyz:8080/live/kaan35tufkci/tufekci35kn/519.ts
+http://nextiptv.pro:8080/yasarp/palaz07@/241
 #EXTINF:-1 tvg-id="KANAL D HD.tr" tvg-name="KANAL D HD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="GENEL",KANAL D
-http://titan.tgrpanel.xyz:8080/live/kaan35tufkci/tufekci35kn/152911.ts
+http://nextiptv.pro:8080/yasarp/palaz07@/230
 #EXTINF:-1 tvg-id="Euro D.tr" tvg-name="Euro D.tr" tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png" group-title="GENEL",EURO D
 https://streams.uzunmuhalefet.com/stream/864c7cfd-0427-4997-b2dc-31b4aee312c9.m3u8
 #EXTINF:-1 tvg-id="TV8 HD.tr" tvg-name="TV8 HD.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="GENEL",TV8
@@ -112,7 +112,7 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-id="24 HD.tr" tvg-name="24 HD.tr" tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="SEYİR",24 TV
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="TVNET HD.tr" tvg-name="TVNET HD.tr" tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="SEYİR",TV NET
-http://titan.tgrpanel.xyz:8080/live/kaan35tufkci/tufekci35kn/363.ts
+http://nextiptv.pro:8080/yasarp/palaz07@/256
 #EXTINF:-1 tvg-id="ÜLKE TV HD.tr" tvg-name="ÜLKE TV HD.tr" tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="SEYİR",ÜLKE
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/K6BKFqY/dha.png" group-title="HABER",DHA
@@ -130,7 +130,7 @@ https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-id="FLASH HABER.tr" tvg-name="FLASH HABER.tr" tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="SEYİR",FLASH HABER
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 #EXTINF:-1 tvg-id="KRT TV.tr" tvg-name="KRT TV.tr" tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png" group-title="SEYİR",KRT
-http://titan.tgrpanel.xyz:8080/live/kaan35tufkci/tufekci35kn/356.ts
+http://nextiptv.pro:8080/alperen01/alperen01/416
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/GQdBjZfW/finansturk.png"group-title="FİNANS",FİNANS TÜRK
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERG HT HD.tr" tvg-name="BLOOMBERG HT HD.tr" tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="FİNANS",BLOOMBERG HT
