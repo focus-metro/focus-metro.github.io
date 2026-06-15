@@ -25,8 +25,6 @@ http://nextiptv.pro:8080/yasarp/palaz07@/488
 http://nextiptv.pro:8080/yasarp/palaz07@/110611
 #EXTINF:-1 tvg-id="BBC Earth HD.tr" tvg-name="TR: BBC Earth" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_418.png" group-title="BELGESEL",BBC Earth	
 http://nextiptv.pro:8080/yasarp/palaz07@/110608
-#EXTINF:-1 tvg-id="DOCUBOX HD.tr" tvg-name="TDOCUBOX" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_394.png" group-title="BELGESEL",DOCUBOX
-http://nextiptv.pro:8080/yasarp/palaz07@/17179
 #EXTINF:-1 tvg-id="historychannel HD.tr" tvg-name="History Channel" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_604.png" group-title="BELGESEL",History Channel
 http://nextiptv.pro:8080/yasarp/palaz07@/362973
 #EXTINF:-1 tvg-id="Ecovision" tvg-logo="https://i.imgur.com/pPCqTMR.png" group-title="BELGESEL",Ecovisión
