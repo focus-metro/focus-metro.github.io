@@ -33,8 +33,26 @@ https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
 https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
 #EXTINF:-1 tvg-id="CGTN Documentary.tr" tvg-name="CGTN Documentary.tr" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="BELGESEL",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="MOVİESMART TURK.HD.tr" tvg-name="MOVİESMART TURK.HD.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/ZI/13863/Thumbnail.png?v=636987856299906443" group-title="SİNEMA", Moviesmart Türk HD
+#EXTINF:-1 tvg-id="MOVİESMART TURK.HD.tr" tvg-name="MOVİESMART TURK.HD.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/ZI/13863/Thumbnail.png?v=636987856299906443" group-title="SINEMA", Moviesmart Türk HD
 http://nextiptv.pro:8080/yasarp/palaz07@/349
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-name="SINEMA TV YERLI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-tr.png" group-title="SINEMA",SINEMA TV YERLI
+http://nextiptv.pro:8080/alperen01/alperen01/366
+#EXTINF:-1 tvg-id="sinemayerli2.tr" tvg-name="SINEMA TV YERLI 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-2-tr.png" group-title="SINEMA",SINEMA TV YERLI 2
+http://nextiptv.pro:8080/alperen01/alperen01/367
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="SINEMA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-tv-tr.png" group-title="SINEMA",SINEMA TV
+http://nextiptv.pro:8080/alperen01/alperen01/358
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="SINEMA TV 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-2-tr.png" group-title="SINEMA",SINEMA TV 2
+http://nextiptv.pro:8080/alperen01/alperen01/359
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="TR: SINEMA TV 1001" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1001-tr.png" group-title="SINEMA",SINEMA TV 1001
+http://nextiptv.pro:8080/alperen01/alperen01/368
+#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="TR: SINEMA TV 1002" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1002-tr.png" group-title="SINEMA",SINEMA TV 1002
+http://nextiptv.pro:8080/alperen01/alperen01/369
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="SINEMA TV ACTION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aksiyon-tr.png" group-title="SINEMA",SINEMA TV ACTION
+http://nextiptv.pro:8080/alperen01/alperen01/360
+#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="SINEMA TV KOMEDI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-tr.png" group-title="SINEMA",SINEMA TV KOMEDI
+http://nextiptv.pro:8080/alperen01/alperen01/364
+#EXTINF:-1 tvg-id="sinemakomedi2hd.tr" tvg-name="SINEMA TV KOMEDI 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-2-tr.png" group-title="SINEMA",TR: SINEMA TV KOMEDI 2
+http://nextiptv.pro:8080/alperen01/alperen01/365
 #EXTINF:-1 tvg-name="LIFE TV" tvg-id="" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="SEYİR",LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:-1 tvg-id="MTurkTV.tr" tvg-logo="https://www.muglaturk.com/files/uploads/logo/34c7514c18.png" group-title="SEYİR",MTürk TV
@@ -47,9 +65,17 @@ http://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 #EXTINF:-1 tvg-id="tabii TV.tr" tvg-logo="https://tvplus.com.tr/_next/image?url=https%3A%2F%2Fgbzottvsc20.tvplus.com.tr%3A33207%2FCPS%2Fimages%2Funiversal%2Ffilm%2Flogo%2F202506%2F20250623%2F94%2F1009257324535eb9542c_op_0_XL.webp&w=128&q=75" group-title="DİZİ", Tabii TV HD
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-id="SİNEMA 1 HD.tr" tvg-name="SİNEMA 1 HD.tr" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="SİNEMA",SiNEMA 1
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="DİZİ SMART PREMIUM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-premium-tr.png" group-title="DİZİ",DİZİ SMART PREMIUM
+http://nextiptv.pro:8080/alperen01/alperen01/351
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="DIZI SMART MAX" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-max-tr.png" group-title="DİZİ",DIZI SMART MAX
+http://nextiptv.pro:8080/alperen01/alperen01/352
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="DIZI SMART PREMIUM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-premium-tr.png" group-title="DİZİ",DIZI SMART PREMIUM
+http://nextiptv.pro:8080/alperen01/alperen01/331
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="DIZI SMART MAX" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-max-tr.png" group-title="DİZİ",DIZI SMART MAX
+http://nextiptv.pro:8080/alperen01/alperen01/332
+#EXTINF:-1 tvg-id="SİNEMA 1 HD.tr" tvg-name="SINEMA 1 HD" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="SINEMA",SiNEMA 1
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Film Screen.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png" group-title="SİNEMA", Film Screen HD
+#EXTINF:-1 tvg-id="Film Screen.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png" group-title="SINEMA", Film Screen HD
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="FX.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/w/Uq/16203/Thumbnail.png?v=637080272246525439" group-title="DİZİ", FX TV HD
 https://saran-live.ercdn.net/fx/index.m3u8
@@ -98,7 +124,7 @@ http://nextiptv.pro:8080/yasarp/palaz07@/241
 #EXTINF:-1 tvg-id="KANAL D HD.tr" tvg-name="KANAL D HD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="GENEL",KANAL D
 http://nextiptv.pro:8080/yasarp/palaz07@/230
 #EXTINF:-1 tvg-id="Euro D.tr" tvg-name="Euro D.tr" tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png" group-title="GENEL",EURO D
-https://streams.uzunmuhalefet.com/stream/864c7cfd-0427-4997-b2dc-31b4aee312c9.m3u8
+http://nextiptv.pro:8080/alperen01/alperen01/213
 #EXTINF:-1 tvg-id="TV8 HD.tr" tvg-name="TV8 HD.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="GENEL",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-id="360 HD.tr" tvg-name="360 HD.tr" tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="GENEL",360Tv
