@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml, https://www.open-epg.com/files/turkey2.xml, https://www.open-epg.com/files/turkey1.xml, https://iptv-epg.org/files/epg-tr.xml"
-#EXTINF:-1 tvg-id="SPORTS TV HD.tr" tvg-name="SPORTS TV HD.tr" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_317.png" group-title="SPOR",SPORTS TV
+#EXTINF:-1 tvg-id="SPORTS TV HD.tr" tvg-name="SPORTS TV HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sports-tv-tr.png" group-title="SPOR",SPORTS TV
 http://nextiptv.pro:8080/yasarp/palaz07@/278
-#EXTINF:-1 tvg-id="S SPORT.tr" tvg-name="S SPORT.tr" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_98.png" group-title="SPOR",S-SPORT 1
+#EXTINF:-1 tvg-id="S SPORT.tr" tvg-name="S SPORT.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/s-sport-tr.png" group-title="SPOR",S-SPORT 1
 http://nextiptv.pro:8080/yasarp/palaz07@/305
-#EXTINF:-1 tvg-id="S SPORT 2.tr" tvg-name="S SPORT 2.tr" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_99.png" group-title="SPOR",S-SPORT 2
+#EXTINF:-1 tvg-id="S SPORT 2.tr" tvg-name="S SPORT 2.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/s-sport-2-tr.png" group-title="SPOR",S-SPORT 2
 http://nextiptv.pro:8080/yasarp/palaz07@/295
-#EXTINF:-1 tvg-id="EUROSPORT 1 HD.tr" tvg-name="EUROSPORT 1 HD.tr" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_314.png" group-title="SPOR",EUROSPORT 1
+#EXTINF:-1 tvg-id="EUROSPORT 1 HD.tr" tvg-name="EUROSPORT 1 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/eurosport-1-uk.png" group-title="SPOR",EUROSPORT 1
 http://nextiptv.pro:8080/yasarp/palaz07@/275
-#EXTINF:-1 tvg-id="EUROSPORT 1 HD.tr" tvg-name="EUROSPORT 2 HD.tr" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_312.png" group-title="SPOR",EUROSPORT 2
+#EXTINF:-1 tvg-id="EUROSPORT 1 HD.tr" tvg-name="EUROSPORT 2 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/eurosport-2-uk.png" group-title="SPOR",EUROSPORT 2
 http://nextiptv.pro:8080/yasarp/palaz07@/276
-#EXTINF:-1 tvg-id="NBA TV HD.tr" tvg-name="NBA TV HD.tr" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_311.png" group-title="SPOR",NBA TV
+#EXTINF:-1 tvg-id="NBA TV HD.tr" tvg-name="NBA TV HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nba-tv-rs.png" group-title="SPOR",NBA TV
 http://nextiptv.pro:8080/yasarp/palaz07@/274
 #EXTINF:-1 tvg-id="TRT BELGESEL HD.tr" tvg-name="TRT BELGESEL HD.tr" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="BELGESEL",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
@@ -39,7 +39,7 @@ http://nextiptv.pro:8080/alperen01/alperen01/366
 http://nextiptv.pro:8080/alperen01/alperen01/367
 #EXTINF:-1 tvg-id="SİNEMA TV HD.tr" tvg-name="SİNEMA TV HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA",SINEMA TV
 http://nextiptv.pro:8080/alperen01/alperen01/358
-#EXTINF:-1 tvg-id="SİNEMA TV 2 HD.tr" tvg-name="SİNEMA TV 2 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-1002-tr.png" group-title="SINEMA",SINEMA TV 2
+#EXTINF:-1 tvg-id="SİNEMA TV 2 HD.tr" tvg-name="SİNEMA TV 2 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-tv2-tr.png" group-title="SINEMA",SINEMA TV 2
 http://nextiptv.pro:8080/alperen01/alperen01/359
 #EXTINF:-1 tvg-id="SİNEMA 1001 HD.tr" tvg-name="SİNEMA 1001 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-1001-tr.png" group-title="SINEMA",SINEMA TV 1001
 http://nextiptv.pro:8080/alperen01/alperen01/368
