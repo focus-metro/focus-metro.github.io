@@ -50,7 +50,7 @@ http://nextiptv.pro:8080/alperen01/alperen01/359
 http://nextiptv.pro:8080/alperen01/alperen01/368
 #EXTINF:-1 tvg-id="SİNEMA 1002 HD.tr" tvg-name="SİNEMA 1002 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-1002-tr.png" group-title="SINEMA",SINEMA TV 1002
 http://nextiptv.pro:8080/alperen01/alperen01/369
-#EXTINF:-1 tvg-id="SİNEMA AKSİYON HD.tr" tvg-name="SİNEMA AKSİYON HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aksiyon-tr.png" group-title="SINEMA",SINEMA TV ACTION
+#EXTINF:-1 tvg-id="SİNEMA TV AKSİYON HD.tr" tvg-name="SİNEMA TV AKSİYON HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aksiyon-tr.png" group-title="SINEMA",SINEMA TV ACTION
 http://nextiptv.pro:8080/alperen01/alperen01/360
 #EXTINF:-1 tvg-id="SİNEMA KOMEDİ HD.tr" tvg-name="SİNEMA KOMEDİ HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-komedi-tr.png" group-title="SINEMA",SINEMA TV KOMEDI
 http://nextiptv.pro:8080/alperen01/alperen01/364
