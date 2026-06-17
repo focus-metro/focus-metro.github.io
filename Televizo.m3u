@@ -21,10 +21,9 @@ http://nextiptv.pro:8080/yasarp/palaz07@/17121
 http://nextiptv.pro:8080/yasarp/palaz07@/110620
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD.tr" tvg-name="DISCOVERY CHANNEL HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/discovery-channel-es.png" group-title="BELGESEL",DISCOVERY CHANNEL
 http://nextiptv.pro:8080/yasarp/palaz07@/488
-http://nextiptv.pro:8080/yasarp/palaz07@/18563
 #EXTINF:-1 tvg-id="VIASAT HISTORY HD.tr" tvg-name="VIASAT HISTORY HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/viasat-history-rs.png" group-title="BELGESEL",ViASAT HiSTORY
 http://nextiptv.pro:8080/yasarp/palaz07@/494
-#EXTINF:-1 tvg-id="VIASAT HISTORY HD.tr" tvg-name="VIASAT HISTORY HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/viasat-explore-rs.png" group-title="BELGESEL",ViASAT HiSTORY
+#EXTINF:-1 tvg-id="VIASAT EXPLORE HD.tr" tvg-name="VIASAT EXPLORE HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/viasat-explore-rs.png" group-title="BELGESEL",ViASAT EXPLORE
 https://indiregabndi.testworker0y.workers.dev/channel/Vmlhc2F0IEV4cGxvcmU=
 #EXTINF:-1 tvg-id="BBC Earth.tr" tvg-name="BBC Earth.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/croatia/bbc-earth-hr.png" group-title="BELGESEL",BBC Earth	
 http://nextiptv.pro:8080/yasarp/palaz07@/110608
