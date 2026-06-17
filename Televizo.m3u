@@ -24,6 +24,8 @@ http://nextiptv.pro:8080/yasarp/palaz07@/488
 http://nextiptv.pro:8080/yasarp/palaz07@/18563
 #EXTINF:-1 tvg-id="VIASAT HISTORY HD.tr" tvg-name="VIASAT HISTORY HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/viasat-history-rs.png" group-title="BELGESEL",ViASAT HiSTORY
 http://nextiptv.pro:8080/yasarp/palaz07@/494
+#EXTINF:-1 tvg-id="VIASAT HISTORY HD.tr" tvg-name="VIASAT HISTORY HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/viasat-explore-rs.png" group-title="BELGESEL",ViASAT HiSTORY
+https://indiregabndi.testworker0y.workers.dev/channel/Vmlhc2F0IEV4cGxvcmU=
 #EXTINF:-1 tvg-id="BBC Earth.tr" tvg-name="BBC Earth.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/croatia/bbc-earth-hr.png" group-title="BELGESEL",BBC Earth	
 http://nextiptv.pro:8080/yasarp/palaz07@/110608
 #EXTINF:-1 tvg-id="historychannel HD.tr" tvg-name="History Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/history-de.png" group-title="BELGESEL",History Channel
