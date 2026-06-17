@@ -1,16 +1,4 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml, https://www.open-epg.com/files/turkey2.xml, https://www.open-epg.com/files/turkey1.xml, https://iptv-epg.org/files/epg-tr.xml"
-#EXTINF:-1 tvg-id="SPORTS TV HD.tr" tvg-name="SPORTS TV HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sports-tv-tr.png" group-title="SPOR",SPORTS TV
-http://nextiptv.pro:8080/yasarp/palaz07@/278
-#EXTINF:-1 tvg-id="S SPORT.tr" tvg-name="S SPORT.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/s-sport-tr.png" group-title="SPOR",S-SPORT 1
-http://nextiptv.pro:8080/yasarp/palaz07@/305
-#EXTINF:-1 tvg-id="S SPORT 2.tr" tvg-name="S SPORT 2.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/s-sport-2-tr.png" group-title="SPOR",S-SPORT 2
-http://nextiptv.pro:8080/yasarp/palaz07@/295
-#EXTINF:-1 tvg-id="EUROSPORT 1 HD.tr" tvg-name="EUROSPORT 1 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/eurosport-1-uk.png" group-title="SPOR",EUROSPORT 1
-http://nextiptv.pro:8080/yasarp/palaz07@/275
-#EXTINF:-1 tvg-id="EUROSPORT 1 HD.tr" tvg-name="EUROSPORT 2 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/eurosport-2-uk.png" group-title="SPOR",EUROSPORT 2
-http://nextiptv.pro:8080/yasarp/palaz07@/276
-#EXTINF:-1 tvg-id="NBA TV HD.tr" tvg-name="NBA TV HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nba-tv-rs.png" group-title="SPOR",NBA TV
-http://nextiptv.pro:8080/yasarp/palaz07@/274
 #EXTINF:-1 tvg-id="TRT BELGESEL HD.tr" tvg-name="TRT BELGESEL HD.tr" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="BELGESEL",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC WILD HD.tr" tvg-name="NATIONAL GEOGRAPHIC WILD HD.tr" tvg-logo="https://static.tildacdn.com/tild6166-6432-4865-a130-393430326636/112.png" group-title="BELGESEL",National Geographic Wild
@@ -23,26 +11,16 @@ https://notyet.denek1544.workers.dev/izle/lovenature.m3u8
 https://indiregabndi.testworker0y.workers.dev/channel/RGlzY292ZXJ5IENoYW5uZWw=
 #EXTINF:-1 tvg-id="VIASAT HISTORY HD.tr" tvg-name="VIASAT HISTORY HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/viasat-history-rs.png" group-title="BELGESEL",ViASAT HiSTORY
 https://notyet.denek1544.workers.dev/izle/historychannel.m3u8
-#EXTINF:-1 tvg-id="VIASAT HISTORY HD.tr" tvg-name="VIASAT HISTORY HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/viasat-explore-rs.png" group-title="BELGESEL",ViASAT HiSTORY
+#EXTINF:-1 tvg-id="VIASAT EXPLORE HD.tr" tvg-name="VIASAT EXPLORE HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/viasat-explore-rs.png" group-title="BELGESEL",ViASAT EXPLORE
 https://indiregabndi.testworker0y.workers.dev/channel/Vmlhc2F0IEV4cGxvcmU=
 #EXTINF:-1 tvg-id="BBC Earth.tr" tvg-name="BBC Earth.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/croatia/bbc-earth-hr.png" group-title="BELGESEL",BBC Earth	
 https://notyet.denek1544.workers.dev/izle/bbcearthhd.m3u8
-#EXTINF:-1 tvg-id="historychannel HD.tr" tvg-name="History Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/history-de.png" group-title="BELGESEL",History Channel
-http://nextiptv.pro:8080/yasarp/palaz07@/362973
 #EXTINF:-1 tvg-id="Ecovision" tvg-logo="https://i.imgur.com/pPCqTMR.png" group-title="BELGESEL",Ecovisión
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ppn5oJy.png" group-title="BELGESEL",KTOO360 FNX TV
 https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
 #EXTINF:-1 tvg-id="CGTN Documentary.tr" tvg-name="CGTN Documentary.tr" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="BELGESEL",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="MovieSmart Turk.tr" tvg-name="MovieSmart Turk.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/ZI/13863/Thumbnail.png?v=636987856299906443" group-title="SINEMA", Moviesmart Türk HD
-http://nextiptv.pro:8080/yasarp/palaz07@/349
-#EXTINF:-1 tvg-id="MovieSmart Classic.tr" tvg-name="MovieSmart Classic.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/movie-smart-classic-hd-tr.png" group-title="SINEMA",MOVİESMART CLASSİC
-http://nextiptv.pro:8080/yasarp/palaz07@/350
-#EXTINF:-1 tvg-id="SİNEMA YERLİ HD.tr" tvg-name="SİNEMA YERLİ HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-yerli-tr.png" group-title="SINEMA",SINEMA TV YERLI
-http://nextiptv.pro:8080/alperen01/alperen01/366
-#EXTINF:-1 tvg-id="SİNEMA YERLİ 2 HD.tr" tvg-name="SİNEMA YERLİ 2 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-yerli2-tr.png" group-title="SINEMA",SINEMA TV YERLI 2
-http://nextiptv.pro:8080/alperen01/alperen01/367
 #EXTINF:-1 tvg-id="SİNEMA TV HD.tr" tvg-name="SİNEMA TV HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA",SINEMA TV
 https://asilrengi.denek1544.workers.dev/channel/U2luZW1hIFRW.m3u8
 #EXTINF:-1 tvg-id="SİNEMA TV 2 HD.tr" tvg-name="SİNEMA TV 2 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-tv2-tr.png" group-title="SINEMA",SINEMA TV 2
@@ -71,8 +49,6 @@ http://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 #EXTINF:-1 tvg-id="tabii TV.tr" tvg-logo="https://tvplus.com.tr/_next/image?url=https%3A%2F%2Fgbzottvsc20.tvplus.com.tr%3A33207%2FCPS%2Fimages%2Funiversal%2Ffilm%2Flogo%2F202506%2F20250623%2F94%2F1009257324535eb9542c_op_0_XL.webp&w=128&q=75" group-title="DİZİ", Tabii TV HD
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-id="Dizi Smart Max.tr" tvg-name="Dizi Smart Max.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/dizi-smart-max-tr.png" group-title="DİZİ",DIZI SMART MAX
-http://nextiptv.pro:8080/alperen01/alperen01/332
 #EXTINF:-1 tvg-id="SİNEMA 1 HD.tr" tvg-name="SINEMA 1 " tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="SINEMA",SiNEMA 1
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Film Screen.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png" group-title="SINEMA", Film Screen HD
