@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml, https://www.open-epg.com/files/turkey2.xml, https://www.open-epg.com/files/turkey1.xml, https://iptv-epg.org/files/epg-tr.xml"
+#EXTM3U 
 #EXTINF:-1 tvg-id="TRT BELGESEL HD.tr" tvg-name="TRT BELGESEL HD.tr" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="BELGESEL",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Ecovision" tvg-logo="https://i.imgur.com/pPCqTMR.png" group-title="BELGESEL",Ecovisión
@@ -54,7 +54,7 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="GENEL",NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="ATV HD.tr" tvg-name="ATV HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="GENEL",ATV
-https://sktrgit.testworker0y.workers.dev/channel/QXR2IHwgQg==
+http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341459.ts
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png" group-title="GENEL",ATV AVRUPA
 http://nextiptv.pro:8080/yasarp/palaz07@/240
 #EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-name="SHOW TV HD.tr" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="GENEL",SHOW TV
@@ -68,7 +68,7 @@ https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-2
 #EXTINF:-1 tvg-id="Euro Star.tr" tvg-name="Euro Star.tr" tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png" group-title="GENEL",EURO STAR
 http://nextiptv.pro:8080/yasarp/palaz07@/241
 #EXTINF:-1 tvg-id="KANAL D HD.tr" tvg-name="KANAL D HD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="GENEL",KANAL D
-https://notyet.denek1544.workers.dev/izle/kanald-112.m3u8
+http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341465.ts
 #EXTINF:-1 tvg-id="Euro D.tr" tvg-name="Euro D.tr" tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png" group-title="GENEL",EURO D
 http://nextiptv.pro:8080/alperen01/alperen01/213
 #EXTINF:-1 tvg-id="TV8 HD.tr" tvg-name="TV8 HD.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="GENEL",TV8
