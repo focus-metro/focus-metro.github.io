@@ -7,7 +7,7 @@ http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/345342.ts
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/345344.ts
 #EXTINF:-1 tvg-id="EUROSPORT 1 HD.tr" tvg-name="EUROSPORT 1 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/eurosport-1-uk.png" group-title="SPOR",EUROSPORT 1
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/342248.ts
-#EXTINF:-1 tvg-id="EUROSPORT 1 HD.tr" tvg-name="EUROSPORT 2 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/eurosport-2-uk.png" group-title="SPOR",EUROSPORT 2
+#EXTINF:-1 tvg-id="EUROSPORT 2 HD.tr" tvg-name="EUROSPORT 2 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/eurosport-2-uk.png" group-title="SPOR",EUROSPORT 2
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/342249.ts
 #EXTINF:-1 tvg-id="NBA TV HD.tr" tvg-name="NBA TV HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nba-tv-rs.png" group-title="SPOR",NBA TV
 http://nextiptv.pro:8080/yasarp/palaz07@/274
@@ -23,7 +23,7 @@ http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341528.ts
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341527.ts
 #EXTINF:-1 tvg-id="VIASAT HISTORY HD.tr" tvg-name="VIASAT HISTORY HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/viasat-history-rs.png" group-title="BELGESEL",ViASAT HiSTORY
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341526.ts
-#EXTINF:-1 tvg-id="VIASAT EXPLORE HD.tr" tvg-name="VIASAT EXPLORE HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/viasat-explore-rs.png" group-title="BELGESEL",ViASAT EXPLORE
+#EXTINF:-1 tvg-id="VIASAT EXPLORE.tr" tvg-name="VIASAT EXPLORE.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/viasat-explore-rs.png" group-title="BELGESEL",ViASAT EXPLORE
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341525.ts
 #EXTINF:-1 tvg-id="BBC Earth.tr" tvg-name="BBC Earth.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/croatia/bbc-earth-hr.png" group-title="BELGESEL",BBC Earth	
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341535.ts
@@ -43,9 +43,9 @@ http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341724.ts
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341726.ts
 #EXTINF:-1 tvg-id="MovieSmart Classic.tr" tvg-name="MovieSmart Classic.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/movie-smart-classic-hd-tr.png" group-title="SINEMA",MOVİESMART CLASSİC
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341727.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dizismart Max HD" tvg-logo="https://i.ibb.co/C3hwdwjw/DIZI-SMART-MAX.png" group-title="DİZİ",Dizismart Max
+#EXTINF:-1 tvg-id="Dizi Smart Max.tr" tvg-name="Dizi Smart Max.tr" tvg-logo="https://i.ibb.co/C3hwdwjw/DIZI-SMART-MAX.png" group-title="DİZİ",Dizismart Max
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341741.ts
-#EXTINF:-1 tvg-id="" tvg-name="EPIC Drama HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/lithuania/epic-drama-lt.png" group-title="DİZİ",EPIC Drama
+#EXTINF:-1 tvg-id="EPIC DRAMA.tr" tvg-name="EPIC DRAMA.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/lithuania/epic-drama-lt.png" group-title="DİZİ",EPIC Drama
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341742.ts
 #EXTINF:-1 tvg-id="SİNEMA YERLİ HD.tr" tvg-name="SİNEMA YERLİ HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-yerli-tr.png" group-title="SINEMA",SINEMA TV YERLI
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341732.ts
@@ -67,9 +67,9 @@ http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341729.ts
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341734.ts
 #EXTINF:-1 tvg-id="SİNEMA KOMEDİ 2 HD.tr" tvg-name="SİNEMA KOMEDİ 2 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-komedi2-tr.png" group-title="SINEMA",TR: SINEMA TV KOMEDI 2
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341735.ts
-#EXTINF:-1 tvg-id="Sinema Aile HD.tr" tvg-name="Sinema Aile" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aile-tr.png" group-title="SINEMA",Sinema Aile
+#EXTINF:-1 tvg-id="SİNEMA AİLE HD.tr" tvg-name="SİNEMA AİLE HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aile-tr.png" group-title="SINEMA",Sinema Aile
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341738.ts
-#EXTINF:-1 tvg-id="Sinema Aile 2 Hd.tr" tvg-name="Sinema Aile 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aile2-tr.png" group-title="SINEMA",Sinema Aile 2
+#EXTINF:-1 tvg-id="SİNEMA AİLE 2 HD.tr" tvg-name="SİNEMA AİLE 2 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aile2-tr.png" group-title="SINEMA",Sinema Aile 2
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341739.ts
 #EXTINF:-1 tvg-name="LIFE TV" tvg-id="" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="SEYİR",LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
