@@ -1,6 +1,20 @@
 #EXTM3U 
+#EXTINF:-1 tvg-id="MOTORVISION-INT" tvg-name="MOTORVISION-INT" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="SPOR",MOTORVISION-INT
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 #EXTINF:-1 tvg-id="TRT BELGESEL HD.tr" tvg-name="TRT BELGESEL HD.tr" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="BELGESEL",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="Love Nature-INT" tvg-name="Love Nature-INT" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="BELGESEL",Love Nature-INT
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+#EXTINF:-1 tvg-id="Animal Planet-USA" tvg-name="Animal Planet-USA" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="BELGESEL",Animal Planet-USA
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 tvg-id="BBC Earth-INT" tvg-name="BBC Earth-INT" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="BELGESEL",BBC Earth-INT
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/58366634-aa54-41fa-8923-4938bc769f8a/0.m3u8
+#EXTINF:-1 tvg-id="Adventure Earth-INT" tvg-name="Adventure Earth-INT" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="BELGESEL",Adventure Earth-INT
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1 tvg-id="Nautical Channel-INT" tvg-name="Nautical Channel-INT" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="BELGESEL",Nautical Channel-INT
+https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
+#EXTINF:-1 tvg-id="Documentary+-US" tvg-name="Documentary+-US" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="BELGESEL",Documentary+-US
+https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Ecovision" tvg-logo="https://i.imgur.com/pPCqTMR.png" group-title="BELGESEL",Ecovisión
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ppn5oJy.png" group-title="BELGESEL",KTOO360 FNX TV
