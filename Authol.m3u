@@ -1,10 +1,16 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="MOTORVISION-INT" tvg-name="MOTORVISION-INT" tvg-logo="https://i.ibb.co/kgDKCnzG/motorvisionint.png" group-title="SPOR",MOTORVISION-INT
+#EXTINF:-1 tvg-id="MOTORVISION-INT" tvg-name="MOTORVISION-INT" tvg-logo="https://i.ibb.co/kgDKCnzG/motorvisionint.png" group-title="BELGESEL",MOTORVISION-INT
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+#EXTINF:-1 tvg-id="MThe Nest-USA" tvg-name="The Nest-USA" tvg-logo="https://i.ibb.co/LdVCjm6z/thenest.png" group-title="BELGESEL",The Nest-USA
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+#EXTINF:-1 tvg-id="Trucking Hell" tvg-name="Trucking Hell" tvg-logo="" group-title="BELGESEL",Trucking Hell
+https://jmp2.uk/plu-656df2849d5ac400083be647.m3u8
 #EXTINF:-1 tvg-id="TRT BELGESEL HD.tr" tvg-name="TRT BELGESEL HD.tr" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="BELGESEL",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Love Nature-INT" tvg-name="Love Nature-INT" tvg-logo="https://i.ibb.co/cKY2pP5y/Love-Nature-TV.png" group-title="BELGESEL",Love Nature-INT
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+#EXTINF:-1 tvg-id="INWILD-IT" tvg-name="INWILD-IT" tvg-logo="https://i.ibb.co/gFVjrBh6/nwild.png" group-title="BELGESEL",INWILD-IT
+https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Animal Planet-USA" tvg-name="Animal Planet-USA" tvg-logo="https://i.ibb.co/Qjv8TxFH/Animal-Planet-logo-PNG-7.png" group-title="BELGESEL",Animal Planet-USA
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1 tvg-id="BBC Earth-INT" tvg-name="BBC Earth-INT" tvg-logo="https://i.ibb.co/tM5KPLkB/BBC-Earth.png" group-title="BELGESEL",BBC Earth-INT
