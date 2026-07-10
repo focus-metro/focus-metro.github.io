@@ -35,9 +35,9 @@ https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
 https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
 #EXTINF:-1 tvg-id="CGTN Documentary.tr" tvg-name="CGTN Documentary.tr" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="BELGESEL",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="Bein Movies Starsç.tr" tvg-name="Bein Movies Stars" tvg-logo="https://i.ibb.co/S71HkwNK/BEIN-MOVIES-STARS.png" group-title="SINEMA",Bein Movies Stars
+#EXTINF:-1 tvg-id="Bein Movies Stars.tr" tvg-name="Bein Movies Stars.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-movies-stars-hd-hz-tr.png" group-title="SINEMA",Bein Movies Stars
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341725.ts
-#EXTINF:-1 tvg-id="Bein Movies Premiere HD.tr" tvg-name="Bein Movies Premiere" tvg-logo="https://i.ibb.co/hF19dgyC/Bein-Movies-Premiere-Eno.png" group-title="SINEMA",Bein Movies Premiere
+#EXTINF:-1 tvg-id="Bein Movies Premiere HD.tr" tvg-name="Bein Movies Premiere HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-movies-premiere-hd-hz-tr.png" group-title="SINEMA",Bein Movies Premiere
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341724.ts
 #EXTINF:-1 tvg-id="MovieSmart Turk.tr" tvg-name="MovieSmart Turk.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/ZI/13863/Thumbnail.png?v=636987856299906443" group-title="SINEMA", Moviesmart Türk HD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471688&extension=ts&play_token=uLYwagAIiW
