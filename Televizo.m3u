@@ -84,9 +84,9 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=14716
 #EXTINF:-1 tvg-id="SİNEMA TV AKSİYON 2 HD.tr" tvg-name="SİNEMA TV AKSİYON 2 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aksiyon2-tr.png" group-title="SINEMA",SINEMA ACTION 2
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471693&extension=ts&play_token=dXcImR2VOm
 #EXTINF:-1 tvg-id="SİNEMA KOMEDİ HD.tr" tvg-name="SİNEMA KOMEDİ HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-komedi-tr.png" group-title="SINEMA",SINEMA KOMEDI
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471694&extension=ts&play_token=gUDQpjYD0L
-#EXTINF:-1 tvg-id="SİNEMA KOMEDİ 2 HD.tr" tvg-name="SİNEMA KOMEDİ 2 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-komedi2-tr.png" group-title="SINEMA",SINEMA KOMEDI 2
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=197126&extension=ts&play_token=VsyScjJNVY
+#EXTINF:-1 tvg-id="SİNEMA KOMEDİ 2 HD.tr" tvg-name="SİNEMA KOMEDİ 2 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-komedi2-tr.png" group-title="SINEMA",SINEMA KOMEDI 2
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=197125&extension=ts&play_token=WptkWfQkrP
 #EXTINF:-1 tvg-id="SİNEMA AİLE HD.tr" tvg-name="SİNEMA AİLE HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aile-tr.png" group-title="SINEMA",Sinema Aile
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471690&extension=ts&play_token=XkCHN9quwY
 #EXTINF:-1 tvg-id="SİNEMA AİLE 2 HD.tr" tvg-name="SİNEMA AİLE 2 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aile2-tr.png" group-title="SINEMA",Sinema Aile 2
