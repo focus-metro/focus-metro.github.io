@@ -61,11 +61,11 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=14716
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471680&extension=ts&play_token=mZ2ehyWIXk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-movies-turk-hd-hz-tr.png" group-title="BEIN",TiviOne MOVIES TURK HD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471681&extension=ts&play_token=p8HF9AkTNy
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-box-office-1-tr.png" group-title="BEIN",TiviOne BOX OFFICE 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-box-office-1-hz-tr.png" group-title="BEIN",TiviOne BOX OFFICE 1
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471698&extension=ts&play_token=ZzrLzmL66r
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-box-office-2-tr.png" group-title="BEIN",TiviOne BOX OFFICE 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-box-office-2-hz-tr.png" group-title="BEIN",TiviOne BOX OFFICE 2
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471699&extension=ts&play_token=vtxTsTkH2o
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-box-office-3-tr.png" group-title="BEIN",TiviOne BOX OFFICE 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-box-office-3-hz-tr.png" group-title="BEIN",TiviOne BOX OFFICE 3
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471700&extension=ts&play_token=i0YM1UnDab
 #EXTINF:-1 tvg-id="SİNEMA YERLİ HD.tr" tvg-name="SİNEMA YERLİ HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-yerli-tr.png" group-title="SINEMA",SINEMA TV YERLI
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341732.ts
