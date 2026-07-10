@@ -3,7 +3,7 @@
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 #EXTINF:-1 tvg-id="MThe Nest-USA" tvg-name="The Nest-USA" tvg-logo="https://i.ibb.co/LdVCjm6z/thenest.png" group-title="BELGESEL",The Nest-USA
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
-#EXTINF:-1 tvg-id="Trucking Hell" tvg-name="Trucking Hell" tvg-logo="" group-title="BELGESEL",Trucking Hell
+#EXTINF:-1 tvg-id="Trucking Hell" tvg-name="Trucking Hell" tvg-logo="https://api-images.channel5.com/otis/images/episode/C5501380001/720x400.png" group-title="BELGESEL",Trucking Hell
 https://jmp2.uk/plu-656df2849d5ac400083be647.m3u8
 #EXTINF:-1 tvg-id="TRT BELGESEL HD.tr" tvg-name="TRT BELGESEL HD.tr" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="BELGESEL",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
