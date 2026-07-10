@@ -49,6 +49,30 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=14716
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471701&extension=ts&play_token=POSWGUQYoB
 #EXTINF:-1 tvg-id="SİNEMA YERLİ HD.tr" tvg-name="SİNEMA YERLİ HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-yerli-tr.png" group-title="SINEMA",SINEMA TV YERLI
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341732.ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/┃TR┃ TiviOne PLATFORM/TiviOne SERIES.png" group-title="TiviOne",TiviOne SERIES 1 HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471673&extension=ts&play_token=fDOWsHHnSf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/┃TR┃ TiviOne PLATFORM/TiviOne SERIES.png" group-title="TiviOne",TiviOne SERIES 2 HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471674&extension=ts&play_token=5gfhIkzuQg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/┃TR┃ TiviOne PLATFORM/TiviOne SERIES.png" group-title="TiviOne",TiviOne SERIES 3 HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471675&extension=ts&play_token=gzHjnGWvXz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/┃TR┃ TiviOne PLATFORM/TiviOne SERIES.png" group-title="TiviOne",TiviOne SERIES 4 HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471676&extension=ts&play_token=x3dLMvs808
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/┃TR┃ TiviOne PLATFORM/TiviOne MOVIES PREMIERE.png" group-title="TiviOne",TiviOne MOVIES PREMIERE HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471678&extension=ts&play_token=pCSHS8y6a9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/┃TR┃ TiviOne PLATFORM/TiviOne MOVIES PREMIERE.png" group-title="TiviOne",TiviOne MOVIES PREMIERE 2 HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471679&extension=ts&play_token=5Re2g5Y61Q
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/┃TR┃ TiviOne PLATFORM/TiviOne MOVIES ACTION.png" group-title="TiviOne",TiviOne MOVIES ACTION HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471677&extension=ts&play_token=wYvQ6VQYYA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/┃TR┃ TiviOne PLATFORM/TiviOne MOVIES STARS.png" group-title="TiviOne",TiviOne MOVIES STARS HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471680&extension=ts&play_token=mZ2ehyWIXk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/┃TR┃ TiviOne PLATFORM/TiviOne MOVIES TURK.png" group-title="TiviOne",TiviOne MOVIES TURK HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471681&extension=ts&play_token=p8HF9AkTNy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-box-office-1-tr.png" group-title="TiviOne",TiviOne BOX OFFICE 1
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471698&extension=ts&play_token=ZzrLzmL66r
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-box-office-2-tr.png" group-title="TiviOne",TiviOne BOX OFFICE 2
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471699&extension=ts&play_token=vtxTsTkH2o
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-box-office-3-tr.png" group-title="TiviOne",TiviOne BOX OFFICE 3
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471700&extension=ts&play_token=i0YM1UnDab
 #EXTINF:-1 tvg-id="SİNEMA YERLİ 2 HD.tr" tvg-name="SİNEMA YERLİ 2 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-yerli2-tr.png" group-title="SINEMA",SINEMA TV YERLI 2
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471696&extension=ts&play_token=8QN8Rx0ig8
 #EXTINF:-1 tvg-id="SİNEMA TV HD.tr" tvg-name="SİNEMA TV HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA",SINEMA TV
