@@ -60,7 +60,7 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=14716
 #EXTINF:-1 tvg-id="SİNEMA 1002 HD.tr" tvg-name="SİNEMA 1002 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-1002-tr.png" group-title="SINEMA",SINEMA TV 1002
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471687&extension=ts&play_token=HzhZ6vEhES
 #EXTINF:-1 tvg-id="SİNEMA TV AKSİYON HD.tr" tvg-name="SİNEMA TV AKSİYON HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aksiyon-tr.png" group-title="SINEMA",SINEMA TV ACTION
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471687&extension=ts&play_token=HzhZ6vEhES
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471692&extension=ts&play_token=JrSdLylyR5
 #EXTINF:-1 tvg-id="SİNEMA TV AKSİYON 2 HD.tr" tvg-name="SİNEMA TV AKSİYON 2 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aksiyon2-tr.png" group-title="SINEMA",SINEMA TV ACTION 2
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471693&extension=ts&play_token=dXcImR2VOm
 #EXTINF:-1 tvg-id="SİNEMA KOMEDİ HD.tr" tvg-name="SİNEMA KOMEDİ HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-komedi-tr.png" group-title="SINEMA",SINEMA TV KOMEDI
