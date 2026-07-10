@@ -49,9 +49,9 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=14716
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471701&extension=ts&play_token=POSWGUQYoB
 #EXTINF:-1 tvg-id="SİNEMA YERLİ HD.tr" tvg-name="SİNEMA YERLİ HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-yerli-tr.png" group-title="SINEMA",SINEMA TV YERLI
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341732.ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/┃TR┃ TiviOne PLATFORM/TiviOne SERIES.png" group-title="TiviOne",TiviOne SERIES 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-series-1-hz-mea.png" group-title="TiviOne",TiviOne SERIES 1 HD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471673&extension=ts&play_token=fDOWsHHnSf
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/┃TR┃ TiviOne PLATFORM/TiviOne SERIES.png" group-title="TiviOne",TiviOne SERIES 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-series-2-hz-mea.png" group-title="TiviOne",TiviOne SERIES 2 HD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471674&extension=ts&play_token=5gfhIkzuQg
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/┃TR┃ TiviOne PLATFORM/TiviOne SERIES.png" group-title="TiviOne",TiviOne SERIES 3 HD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471675&extension=ts&play_token=gzHjnGWvXz
