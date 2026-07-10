@@ -39,7 +39,7 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471688&extension=ts&play_token=uLYwagAIiW
 #EXTINF:-1 tvg-id="MovieSmart Classic.tr" tvg-name="MovieSmart Classic.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/movie-smart-classic-hd-tr.png" group-title="SINEMA",MOVİESMART CLASSİC
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471684&extension=ts&play_token=txJYZNZE6k
-#EXTINF:-1 tvg-id="Dizi Smart Max.tr" tvg-name="Dizi Smart Max.tr" tvg-logo="https://i.ibb.co/C3hwdwjw/DIZI-SMART-MAX.png" group-title="DİZİ",Dizismart Max
+#EXTINF:-1 tvg-id="Dizi Smart Max.tr" tvg-name="Dizi Smart Max.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/dizi-smart-max-tr.png" group-title="DİZİ",Dizismart Max
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471682&extension=ts&play_token=BtvB09wPcF
 #EXTINF:-1 tvg-id="EPIC DRAMA.tr" tvg-name="EPIC DRAMA.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/lithuania/epic-drama-lt.png" group-title="DİZİ",EPIC Drama
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471701&extension=ts&play_token=POSWGUQYoB
