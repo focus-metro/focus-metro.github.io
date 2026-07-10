@@ -2,31 +2,31 @@
 #EXTINF:-1 tvg-id="SPORTS TV HD.tr" tvg-name="SPORTS TV HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sports-tv-tr.png" group-title="SPOR",SPORTS TV
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/342260.ts
 #EXTINF:-1 tvg-id="S SPORT.tr" tvg-name="S SPORT.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/s-sport-tr.png" group-title="SPOR",S-SPORT 1
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/345342.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=703&extension=ts&play_token=900Y3TbJxg
 #EXTINF:-1 tvg-id="S SPORT 2.tr" tvg-name="S SPORT 2.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/s-sport-2-tr.png" group-title="SPOR",S-SPORT 2
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/345344.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=18638&extension=ts&play_token=Ww38qH3LB4
 #EXTINF:-1 tvg-id="EUROSPORT 1 HD.tr" tvg-name="EUROSPORT 1 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/eurosport-1-uk.png" group-title="SPOR",EUROSPORT 1
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/342248.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=700&extension=ts&play_token=9pWTxQiQVT
 #EXTINF:-1 tvg-id="EUROSPORT 2 HD.tr" tvg-name="EUROSPORT 2 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/eurosport-2-uk.png" group-title="SPOR",EUROSPORT 2
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/342249.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=699&extension=ts&play_token=iLrHXcmvEN
 #EXTINF:-1 tvg-id="NBA TV HD.tr" tvg-name="NBA TV HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nba-tv-rs.png" group-title="SPOR",NBA TV
 http://nextiptv.pro:8080/yasarp/palaz07@/274
 #EXTINF:-1 tvg-id="TRT BELGESEL HD.tr" tvg-name="TRT BELGESEL HD.tr" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="BELGESEL",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC WILD HD.tr" tvg-name="NATIONAL GEOGRAPHIC WILD HD.tr" tvg-logo="https://static.tildacdn.com/tild6166-6432-4865-a130-393430326636/112.png" group-title="BELGESEL",National Geographic Wild
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341524.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=197432&extension=ts&play_token=EgZySyAGug
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD.tr" tvg-name="NATIONAL GEOGRAPHIC HD.tr" tvg-logo="https://photoville.nyc/wp-content/uploads/2022/05/ng_2flush_blackyellow_rgb.png" group-title="BELGESEL",National Geographic
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341523.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=197433&extension=ts&play_token=vIAFFKePWW
 #EXTINF:-1 tvg-id="LOVE NATURE HD.tr" tvg-name="LOVE NATURE HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/love-nature-ca.png" group-title="BELGESEL",LOVE NATURE
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341528.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=197434&extension=ts&play_token=Ngkcs4n1xj
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD.tr" tvg-name="DISCOVERY CHANNEL HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/discovery-channel-es.png" group-title="BELGESEL",DISCOVERY CHANNEL
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341527.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=197427&extension=ts&play_token=rXjLa9bDy7
 #EXTINF:-1 tvg-id="VIASAT HISTORY HD.tr" tvg-name="VIASAT HISTORY HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/viasat-history-rs.png" group-title="BELGESEL",ViASAT HiSTORY
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341526.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=197420&extension=ts&play_token=mT2OGR6h9B
 #EXTINF:-1 tvg-id="VIASAT EXPLORE.tr" tvg-name="VIASAT EXPLORE.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/viasat-explore-rs.png" group-title="BELGESEL",ViASAT EXPLORE
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341525.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=197442&extension=ts&play_token=T0Qe2W6ku7
 #EXTINF:-1 tvg-id="BBC Earth.tr" tvg-name="BBC Earth.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/croatia/bbc-earth-hr.png" group-title="BELGESEL",BBC Earth	
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341535.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=197431&extension=ts&play_token=nCZocT8oj0
 #EXTINF:-1 tvg-id="Tarih Tv HD.tr" tvg-name="Tarih TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/history-de.png" group-title="BELGESEL",Tarih TV
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341532.ts
 #EXTINF:-1 tvg-id="Ecovision" tvg-logo="https://i.imgur.com/pPCqTMR.png" group-title="BELGESEL",Ecovisión
@@ -40,37 +40,37 @@ http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341725.ts
 #EXTINF:-1 tvg-id="Bein Movies Premiere HD.tr" tvg-name="Bein Movies Premiere" tvg-logo="https://i.ibb.co/hF19dgyC/Bein-Movies-Premiere-Eno.png" group-title="SINEMA",Bein Movies Premiere
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341724.ts
 #EXTINF:-1 tvg-id="MovieSmart Turk.tr" tvg-name="MovieSmart Turk.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/ZI/13863/Thumbnail.png?v=636987856299906443" group-title="SINEMA", Moviesmart Türk HD
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341726.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471688&extension=ts&play_token=uLYwagAIiW
 #EXTINF:-1 tvg-id="MovieSmart Classic.tr" tvg-name="MovieSmart Classic.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/movie-smart-classic-hd-tr.png" group-title="SINEMA",MOVİESMART CLASSİC
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341727.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471684&extension=ts&play_token=txJYZNZE6k
 #EXTINF:-1 tvg-id="Dizi Smart Max.tr" tvg-name="Dizi Smart Max.tr" tvg-logo="https://i.ibb.co/C3hwdwjw/DIZI-SMART-MAX.png" group-title="DİZİ",Dizismart Max
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341741.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471682&extension=ts&play_token=BtvB09wPcF
 #EXTINF:-1 tvg-id="EPIC DRAMA.tr" tvg-name="EPIC DRAMA.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/lithuania/epic-drama-lt.png" group-title="DİZİ",EPIC Drama
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341742.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471701&extension=ts&play_token=POSWGUQYoB
 #EXTINF:-1 tvg-id="SİNEMA YERLİ HD.tr" tvg-name="SİNEMA YERLİ HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-yerli-tr.png" group-title="SINEMA",SINEMA TV YERLI
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341732.ts
 #EXTINF:-1 tvg-id="SİNEMA YERLİ 2 HD.tr" tvg-name="SİNEMA YERLİ 2 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-yerli2-tr.png" group-title="SINEMA",SINEMA TV YERLI 2
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341733.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471696&extension=ts&play_token=8QN8Rx0ig8
 #EXTINF:-1 tvg-id="SİNEMA TV HD.tr" tvg-name="SİNEMA TV HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA",SINEMA TV
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341730.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471688&extension=ts&play_token=uLYwagAIiW
 #EXTINF:-1 tvg-id="SİNEMA TV 2 HD.tr" tvg-name="SİNEMA TV 2 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-tv2-tr.png" group-title="SINEMA",SINEMA TV 2
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341731.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471689&extension=ts&play_token=rlz9LlxLPS
 #EXTINF:-1 tvg-id="SİNEMA TV 1001 HD.tr" tvg-name="SİNEMA TV 1001 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-1001-tr.png" group-title="SINEMA",SINEMA TV 1001
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341736.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471686&extension=ts&play_token=yPA99fo4XP
 #EXTINF:-1 tvg-id="SİNEMA 1002 HD.tr" tvg-name="SİNEMA 1002 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-1002-tr.png" group-title="SINEMA",SINEMA TV 1002
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341737.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471687&extension=ts&play_token=HzhZ6vEhES
 #EXTINF:-1 tvg-id="SİNEMA TV AKSİYON HD.tr" tvg-name="SİNEMA TV AKSİYON HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aksiyon-tr.png" group-title="SINEMA",SINEMA TV ACTION
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341728.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471687&extension=ts&play_token=HzhZ6vEhES
 #EXTINF:-1 tvg-id="SİNEMA TV AKSİYON 2 HD.tr" tvg-name="SİNEMA TV AKSİYON 2 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aksiyon2-tr.png" group-title="SINEMA",SINEMA TV ACTION 2
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341729.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471693&extension=ts&play_token=dXcImR2VOm
 #EXTINF:-1 tvg-id="SİNEMA KOMEDİ HD.tr" tvg-name="SİNEMA KOMEDİ HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-komedi-tr.png" group-title="SINEMA",SINEMA TV KOMEDI
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341734.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471694&extension=ts&play_token=gUDQpjYD0L
 #EXTINF:-1 tvg-id="SİNEMA KOMEDİ 2 HD.tr" tvg-name="SİNEMA KOMEDİ 2 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-komedi2-tr.png" group-title="SINEMA",TR: SINEMA TV KOMEDI 2
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341735.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=197125&extension=ts&play_token=WptkWfQkrP
 #EXTINF:-1 tvg-id="SİNEMA AİLE HD.tr" tvg-name="SİNEMA AİLE HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aile-tr.png" group-title="SINEMA",Sinema Aile
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341738.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471690&extension=ts&play_token=XkCHN9quwY
 #EXTINF:-1 tvg-id="SİNEMA AİLE 2 HD.tr" tvg-name="SİNEMA AİLE 2 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aile2-tr.png" group-title="SINEMA",Sinema Aile 2
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341739.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471691&extension=ts&play_token=bcbMRdaja4
 #EXTINF:-1 tvg-name="LIFE TV" tvg-id="" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="SEYİR",LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:-1 tvg-id="MTurkTV.tr" tvg-logo="https://www.muglaturk.com/files/uploads/logo/34c7514c18.png" group-title="SEYİR",MTürk TV
@@ -100,7 +100,7 @@ https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:-1 tvg-id="HALK TV.tr" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png"group-title="HABER",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-id="SÖZCÜ TV.tr" tvg-name="SÖZCÜ TV.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="HABER",SÖZCÜ TV
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/342933.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=540949&extension=ts&play_token=JOFxL2wUlR
 #EXTINF:-1 tvg-id="TRT HABER HD.tr" tvg-name="TRT HABER HD.tr" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="HABER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-name="TRT1 HD.tr" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="|TR|🇹🇷 ULUSAL",TRT 1
@@ -118,23 +118,23 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="GENEL",NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="ATV HD.tr" tvg-name="ATV HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="GENEL",ATV
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341459.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=196714&extension=ts&play_token=DWNCFJZrjl
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png" group-title="GENEL",ATV AVRUPA
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341475.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=196666&extension=ts&play_token=mVvbrNqoax
 #EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-name="SHOW TV HD.tr" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="GENEL",SHOW TV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png"group-title="GENEL",SHOW TÜRK
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341474.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=196664&extension=ts&play_token=qoGE4lge5n
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="ShowMax.tr" tvg-logo="https://i.ibb.co/kxjKk89/showmax.png" group-title="GENEL",SHOW MAX
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/342314.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=196701&extension=ts&play_token=0WeM5XSl3Q
 #EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-name="STAR TV HD.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="GENEL",STAR
 https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 #EXTINF:-1 tvg-id="Euro Star.tr" tvg-name="Euro Star.tr" tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png" group-title="GENEL",EURO STAR
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341476.ts
 #EXTINF:-1 tvg-id="KANAL D HD.tr" tvg-name="KANAL D HD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="GENEL",KANAL D
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341465.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=196712&extension=ts&play_token=D1bUuDAgZw
 #EXTINF:-1 tvg-id="Euro D.tr" tvg-name="Euro D.tr" tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png" group-title="GENEL",EURO D
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341473.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=196663&extension=ts&play_token=Xly1dUUni8
 #EXTINF:-1 tvg-id="TV8 HD.tr" tvg-name="TV8 HD.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="GENEL",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-id="360 HD.tr" tvg-name="360 HD.tr" tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="GENEL",360Tv
@@ -154,7 +154,7 @@ http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/342953.ts
 #EXTINF:-1 tvg-id="NTV HD.tr" tvg-name="NTV HD.tr" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="HABER",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-id="CNN TÜRK HD.tr" tvg-name="CNN TÜRK HD.tr" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="HABER",CNN TÜRK
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/342932.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=197287&extension=ts&play_token=mqO3Ga5TwL
 #EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV100.tr" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="SEYİR",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 #EXTINF:-1 tvg-id="TGRT HABER HD.tr" tvg-name="TGRT HABER HD.tr" tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png" group-title="HABER",TGRT HABER
@@ -164,13 +164,13 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 #EXTINF:-1 tvg-id="HABER GLOBAL HD.tr" tvg-name="HABER GLOBAL HD.tr" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="HABER",HABER GLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-id="A HABER HD.tr" tvg-name="A HABER HD.tr" tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="HABER",A HABER
-https://streams.uzunmuhalefet.com/stream/b4f7a5e9-fcae-4258-83eb-cc37b6a68696.m3u8
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=197288&extension=ts&play_token=5Ikrg2T6or
 #EXTINF:-1 tvg-id="EKOL TV.tr" tvg-name="EKOL TV.tr" tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png" group-title="SEYİR",EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-id="24 HD.tr" tvg-name="24 HD.tr" tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="SEYİR",24 TV
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="TVNET HD.tr" tvg-name="TVNET HD.tr" tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="SEYİR",TV NET
-http://nextiptv.pro:8080/yasarp/palaz07@/256
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=197290&extension=ts&play_token=sj6qFNt3zc
 #EXTINF:-1 tvg-id="ÜLKE TV HD.tr" tvg-name="ÜLKE TV HD.tr" tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="SEYİR",ÜLKE
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/K6BKFqY/dha.png" group-title="HABER",DHA
@@ -186,9 +186,9 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-id="BENGÜTÜRK.tr" tvg-name="BENGÜTÜRK.tr" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png "group-title="SEYİR",BENGÜ TÜRK
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-id="FLASH HABER.tr" tvg-name="FLASH HABER.tr" tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="SEYİR",FLASH HABER
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/342964.ts
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=197292&extension=ts&play_token=9wExa5OryA
 #EXTINF:-1 tvg-id="KRT TV.tr" tvg-name="KRT TV.tr" tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png" group-title="SEYİR",KRT
-http://nextiptv.pro:8080/alperen01/alperen01/416
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=197303&extension=ts&play_token=LtZB7hhinI
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/GQdBjZfW/finansturk.png"group-title="FİNANS",FİNANS TÜRK
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERG HT HD.tr" tvg-name="BLOOMBERG HT HD.tr" tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="FİNANS",BLOOMBERG HT
