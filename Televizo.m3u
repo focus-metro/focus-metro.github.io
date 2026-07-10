@@ -35,10 +35,6 @@ https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
 https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
 #EXTINF:-1 tvg-id="CGTN Documentary.tr" tvg-name="CGTN Documentary.tr" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="BELGESEL",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="Bein Movies Stars.tr" tvg-name="Bein Movies Stars.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-movies-stars-hd-hz-tr.png" group-title="SINEMA",Bein Movies Stars
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341725.ts
-#EXTINF:-1 tvg-id="Bein Movies Premiere HD.tr" tvg-name="Bein Movies Premiere HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-movies-premiere-hd-hz-tr.png" group-title="SINEMA",Bein Movies Premiere
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341724.ts
 #EXTINF:-1 tvg-id="MovieSmart Turk.tr" tvg-name="MovieSmart Turk.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/ZI/13863/Thumbnail.png?v=636987856299906443" group-title="SINEMA", Moviesmart Türk HD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471688&extension=ts&play_token=uLYwagAIiW
 #EXTINF:-1 tvg-id="MovieSmart Classic.tr" tvg-name="MovieSmart Classic.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/movie-smart-classic-hd-tr.png" group-title="SINEMA",MOVİESMART CLASSİC
@@ -47,32 +43,32 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=14716
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471682&extension=ts&play_token=BtvB09wPcF
 #EXTINF:-1 tvg-id="EPIC DRAMA.tr" tvg-name="EPIC DRAMA.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/lithuania/epic-drama-lt.png" group-title="DİZİ",EPIC Drama
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471701&extension=ts&play_token=POSWGUQYoB
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-series-1-hz-mea.png" group-title="BEIN",TiviOne SERIES 1 HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471673&extension=ts&play_token=fDOWsHHnSf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-series-2-hz-mea.png" group-title="BEIN",TiviOne SERIES 2 HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471674&extension=ts&play_token=5gfhIkzuQg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/┃TR┃ TiviOne PLATFORM/TiviOne SERIES.png" group-title="BEIN",TiviOne SERIES 3 HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471675&extension=ts&play_token=gzHjnGWvXz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/┃TR┃ TiviOne PLATFORM/TiviOne SERIES.png" group-title="BEIN",TiviOne SERIES 4 HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471676&extension=ts&play_token=x3dLMvs808
+#EXTINF:-1 tvg-id="Bein Movies Premiere HD.tr" tvg-name="Bein Movies Premiere HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-movies-premiere-hd-hz-tr.png" group-title="BEIN",TiviOne MOVIES PREMIERE HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471678&extension=ts&play_token=pCSHS8y6a9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-movies-premiere-2-hd-hz-tr.png" group-title="BEIN",TiviOne MOVIES PREMIERE 2 HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471679&extension=ts&play_token=5Re2g5Y61Q
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-movies-action-hd-hz-tr.png" group-title="BEIN",TiviOne MOVIES ACTION HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471677&extension=ts&play_token=wYvQ6VQYYA
+#EXTINF:-1 tvg-id="Bein Movies Stars.tr" tvg-name="Bein Movies Stars.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-movies-stars-hd-hz-tr.png" group-title="BEIN",TiviOne MOVIES STARS HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471680&extension=ts&play_token=mZ2ehyWIXk
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-movies-turk-hd-hz-tr.png" group-title="BEIN",TiviOne MOVIES TURK HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471681&extension=ts&play_token=p8HF9AkTNy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-box-office-1-tr.png" group-title="BEIN",TiviOne BOX OFFICE 1
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471698&extension=ts&play_token=ZzrLzmL66r
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-box-office-2-tr.png" group-title="BEIN",TiviOne BOX OFFICE 2
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471699&extension=ts&play_token=vtxTsTkH2o
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-box-office-3-tr.png" group-title="BEIN",TiviOne BOX OFFICE 3
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471700&extension=ts&play_token=i0YM1UnDab
 #EXTINF:-1 tvg-id="SİNEMA YERLİ HD.tr" tvg-name="SİNEMA YERLİ HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-yerli-tr.png" group-title="SINEMA",SINEMA TV YERLI
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341732.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-series-1-hz-mea.png" group-title="TiviOne",TiviOne SERIES 1 HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471673&extension=ts&play_token=fDOWsHHnSf
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-series-2-hz-mea.png" group-title="TiviOne",TiviOne SERIES 2 HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471674&extension=ts&play_token=5gfhIkzuQg
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/┃TR┃ TiviOne PLATFORM/TiviOne SERIES.png" group-title="TiviOne",TiviOne SERIES 3 HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471675&extension=ts&play_token=gzHjnGWvXz
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/┃TR┃ TiviOne PLATFORM/TiviOne SERIES.png" group-title="TiviOne",TiviOne SERIES 4 HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471676&extension=ts&play_token=x3dLMvs808
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-movies-premiere-hd-hz-tr.png" group-title="TiviOne",TiviOne MOVIES PREMIERE HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471678&extension=ts&play_token=pCSHS8y6a9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-movies-premiere-2-hd-hz-tr.png" group-title="TiviOne",TiviOne MOVIES PREMIERE 2 HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471679&extension=ts&play_token=5Re2g5Y61Q
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-movies-action-hd-hz-tr.png" group-title="TiviOne",TiviOne MOVIES ACTION HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471677&extension=ts&play_token=wYvQ6VQYYA
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-movies-stars-hd-hz-tr.png" group-title="TiviOne",TiviOne MOVIES STARS HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471680&extension=ts&play_token=mZ2ehyWIXk
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-movies-turk-hd-hz-tr.png" group-title="TiviOne",TiviOne MOVIES TURK HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471681&extension=ts&play_token=p8HF9AkTNy
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-box-office-1-tr.png" group-title="TiviOne",TiviOne BOX OFFICE 1
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471698&extension=ts&play_token=ZzrLzmL66r
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-box-office-2-tr.png" group-title="TiviOne",TiviOne BOX OFFICE 2
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471699&extension=ts&play_token=vtxTsTkH2o
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-box-office-3-tr.png" group-title="TiviOne",TiviOne BOX OFFICE 3
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471700&extension=ts&play_token=i0YM1UnDab
 #EXTINF:-1 tvg-id="SİNEMA YERLİ 2 HD.tr" tvg-name="SİNEMA YERLİ 2 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-yerli2-tr.png" group-title="SINEMA",SINEMA TV YERLI 2
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471696&extension=ts&play_token=8QN8Rx0ig8
 #EXTINF:-1 tvg-id="SİNEMA TV HD.tr" tvg-name="SİNEMA TV HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA",SINEMA TV
