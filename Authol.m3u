@@ -9,6 +9,24 @@ https://jmp2.uk/plu-656df2849d5ac400083be647.m3u8
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Love Nature-INT" tvg-name="Love Nature-INT" tvg-logo="https://i.ibb.co/cKY2pP5y/Love-Nature-TV.png" group-title="BELGESEL",Love Nature-INT
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wFc354b9/national-geographic.png" group-title="BELGESEL",National Geographic-FR
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhrP87Kg/Discovery-logop.png" group-title="BELGESEL",Discovery Channel-FR
+http://151.80.18.177:86/Discovery_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2KtyTZ3/Nature-Time.png" group-title="BELGESEL",Nature Time-FR
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LDsTgzSk/Destination-Nature.png" group-title="BELGESEL",Destination Nature-FR
+https://jmp2.uk/stvp-FRBC4000001IO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tTtcCS1v/Cap-Terre.png" group-title="BELGESEL",Cap Terre-FR
+https://jmp2.uk/stvp-FRBC3900004DS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0pCjcGSM/Wilder-Planet.png" group-title="BELGESEL",Wilder Planet-DE
+https://jmp2.uk/stvp-ATBA3300031VR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35tYB6JH/Terra-Mater-Wild.png" group-title="BELGESEL",Terra Mater WILD-DE
+https://jmp2.uk/stvp-ATBD2700001KY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fzd9Qj58/Tierwelt.png" group-title="BELGESEL",Tierwelt-DE
+https://jmp2.uk/stvp-ATAJ0500427A
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jpnfckW/adventureearth.png" group-title="BELGESEL",Adventure Earth-DE
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="INWILD-IT" tvg-name="INWILD-IT" tvg-logo="https://i.ibb.co/gFVjrBh6/nwild.png" group-title="BELGESEL",INWILD-IT
 https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Animal Planet-USA" tvg-name="Animal Planet-USA" tvg-logo="https://i.ibb.co/Qjv8TxFH/Animal-Planet-logo-PNG-7.png" group-title="BELGESEL",Animal Planet-USA
