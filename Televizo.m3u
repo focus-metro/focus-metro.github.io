@@ -45,11 +45,11 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=14716
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471701&extension=ts&play_token=POSWGUQYoB
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-series-1-hz-mea.png" group-title="BEIN",BEIN SERIES 1 HD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471673&extension=ts&play_token=fDOWsHHnSf
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-series-drama-hd-hz-tr.png" group-title="BEIN",BEIN SERIES HD DRAMA
+#EXTINF:-1 tvg-logo=https://github.com/tv-logo/tv-logos/blob/main/countries/world-middle-east/bein-series-2-hz-mea.png" group-title="BEIN",BEIN SERIES 2 HD 
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471674&extension=ts&play_token=5gfhIkzuQg
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/┃TR┃ TiviOne PLATFORM/TiviOne SERIES.png" group-title="BEIN",BEIN SERIES 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-hd-tr.png" group-title="BEIN",BEIN SERIES 3 HD 
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471675&extension=ts&play_token=gzHjnGWvXz
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/┃TR┃ TiviOne PLATFORM/TiviOne SERIES.png" group-title="BEIN",BEIN SERIES 4 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-hd-tr.png" group-title="BEIN",BEIN SERIES  4 HD 
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471676&extension=ts&play_token=x3dLMvs808
 #EXTINF:-1 tvg-id="Bein Movies Premiere HD.tr" tvg-name="Bein Movies Premiere HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-movies-premiere-hd-hz-tr.png" group-title="BEIN",BEIN MOVIES PREMIERE HD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471678&extension=ts&play_token=pCSHS8y6a9
@@ -176,7 +176,7 @@ https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-id="CNN TÜRK HD.tr" tvg-name="CNN TÜRK HD.tr" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="HABER",CNN TÜRK
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=197287&extension=ts&play_token=mqO3Ga5TwL
 #EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV100.tr" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="SEYİR",TV 100
-https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
+http://
 #EXTINF:-1 tvg-id="TGRT HABER HD.tr" tvg-name="TGRT HABER HD.tr" tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png" group-title="HABER",TGRT HABER
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-id="HABERTÜRK HD.tr" tvg-name="HABERTÜRK HD.tr" tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="HABER",HABER TÜRK
