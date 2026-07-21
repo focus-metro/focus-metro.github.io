@@ -106,11 +106,11 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="ATV HD.tr" tvg-name="ATV HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="GENEL",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png" group-title="GENEL",ATV AVRUPA
-http://162.212.179.32/akamaissh101/ssh101/teber_tv7/chunks.m3u8
+http://umperisn.mywire.org/index.php?id=1875&token=DeaTHLesS
 #EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-name="SHOW TV HD.tr" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="GENEL",SHOW TV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png"group-title="GENEL",SHOW TÜRK
-http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341474.ts
+http://umperisn.mywire.org/index.php?id=1874&token=DeaTHLesS
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="ShowMax.tr" tvg-logo="https://i.ibb.co/kxjKk89/showmax.png" group-title="GENEL",SHOW MAX
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 #EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-name="STAR TV HD.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="GENEL",STAR
@@ -120,7 +120,7 @@ http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341476.ts
 #EXTINF:-1 tvg-id="KANAL D HD.tr" tvg-name="KANAL D HD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="GENEL",KANAL D
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/A4M5THZG7QS74W/2326/index.m3u8
 #EXTINF:-1 tvg-id="Euro D.tr" tvg-name="Euro D.tr" tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png" group-title="GENEL",EURO D
-http://162.212.179.32/akamaissh101/ssh101/fmuzik/chunks.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8 HD.tr" tvg-name="TV8 HD.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="GENEL",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-id="360 HD.tr" tvg-name="360 HD.tr" tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="GENEL",360Tv
@@ -180,7 +180,9 @@ https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERG HT HD.tr" tvg-name="BLOOMBERG HT HD.tr" tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="FİNANS",BLOOMBERG HT
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-id="CARTOON NETWORK.tr" tvg-name="CARTOON NETWORK.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cartoon-network-it.png" group-title="ÇOCUK",CARTOON NETWORK
-https://streams.uzunmuhalefet.com/stream/9d940976-31c8-4570-92e6-a684e49bea46.m3u8
+https://nord.ayakkabiparti.lol/cartoonnetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3fqx8M6/Max-Logo-900x506-removebg-preview.png" group-title="ÇOCUK",CARTOONİTO
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6850/index.m3u8
 #EXTINF:-1 tvg-id="TRT ÇOCUK HD.tr" tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="ÇOCUK",TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="MİNİKA ÇOCUK.tr" tvg-name="MİNİKA ÇOCUK.tr" tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png" group-title="ÇOCUK",MİNİKA ÇOCUK
