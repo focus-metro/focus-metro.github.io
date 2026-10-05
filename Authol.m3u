@@ -57,6 +57,8 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 http://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 #EXTINF:-1 tvg-logo="https://www.bikanal.com/frontend/img/logo.webp" group-title="SİNEMA-DİZİ",Bİ KANAL
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5jd1nmms/38876648-ico.png" group-title="SİNEMA-DİZİ",TELEON
+https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w2028408927.m3u8
 #EXTINF:-1 tvg-logo="https://www.cine5tv.com/wp-content/uploads/2025/10/cinelogo.png" group-title="SİNEMA-DİZİ",CİNE 5 TV
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/ui9jCyKLJbY.png" group-title="SİNEMA-DİZİ",MAX TV
@@ -65,6 +67,12 @@ http://maxmedya.duckdns.org/akamaissh101/ssh101/maxtv/playlist.m3u8
 http://162.212.179.32/akamaissh101/ssh101/maxyerli/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1c3RNhh/39030030-ico.png" group-title="SİNEMA-DİZİ",MAX PREMİER
 http://162.212.179.32/akamaissh101/ssh101/maxpremier/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/pCE1b.png" group-title="SİNEMA-DİZİ",FİX TV
+https://yayin.venomlink.com/live/mystream/main_stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dV3mvSwf/38332657-ico.png" group-title="SİNEMA-DİZİ",YANSIMA SİNEMA
+http://162.212.179.32/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnfBM4Bb/38842185-ico.png" group-title="SİNEMA-DİZİ",YANSIMA NOSTALJİ
+http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kGYfx25t/38333816-ico.png" group-title="SİNEMA-DİZİ",DİGİNET CİNEMA
 https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/Cm1kp8f/sat7turk.png" group-title="RETRO",SAT 7 TÜRK
@@ -146,7 +154,7 @@ https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8?tv=1
 #EXTINF:-1 tvg-id="NTV HD.tr" tvg-name="NTV HD.tr" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="HABER",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-id="CNN TÜRK HD.tr" tvg-name="CNN TÜRK HD.tr" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="HABER",CNN TÜRK
-http://umperisn.mywire.org/index.php?id=594252&token=DeaTHLesS
+http://izlego.minikirppis-com.workers.dev/ID=427315396743dfe9212c50
 #EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV100.tr" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="SEYİR",TV 100
 https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
 #EXTINF:-1 tvg-id="TGRT HABER HD.tr" tvg-name="TGRT HABER HD.tr" tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png" group-title="HABER",TGRT HABER
