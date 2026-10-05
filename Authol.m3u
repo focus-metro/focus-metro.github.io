@@ -131,7 +131,7 @@ https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-2
 http://sunx101.xyz:80/live/tolgayildirim/MZPVLkySa3/341476.ts
 #EXTINF:-1 tvg-id="KANAL D HD.tr" tvg-name="KANAL D HD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="GENEL",KANAL D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
-#EXTINF:-1 tvg-id="Euro D.tr" tvg-name="Euro D.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/euro-d-tr.png" group-title="GENEL",EURO D
+#EXTINF:-1 tvg-id="Euro D.tr" tvg-name="Euro D.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/euro-d-tr.png" group-title="GENEL",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8 HD.tr" tvg-name="TV8 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv8-tr.png" group-title="GENEL",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
@@ -143,7 +143,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-id="TEVE2 HD.tr" tvg-name="TEVE2 HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/teve2-tr.png" group-title="GENEL",TEVE 2
 https://demiroren.daioncdn.net/teve2/teve2.m3u8?app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
-#EXTINF:-1 tvg-id="TV 4.tr" tvg-name="TV 4.tr" tvg-logo="https://i.ibb.co/pXncfpb/tv422.png" group-title="SEYİR",TV 4
+#EXTINF:-1 tvg-id="TV 4.tr" tvg-name="TV 4.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv4-tr.png" group-title="SEYİR",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-id="TYT TÜRK.tr" tvg-name="TYT TÜRK.tr" tvg-logo="https://i.ibb.co/N2n2tqMz/tyt.png" group-title="SEYİR",TYT TÜRK
 https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
@@ -253,7 +253,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f
 http://dygvideo.dygdigital.com/live/hls/kralpop
 #EXTINF:-1 tvg-id="DREAM TÜRK.tr" tvg-name="DREAM TÜRK.tr" tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png" group-title="MÜZİK",DREAM TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/9grLJCS/fone22.png" group-title="MODA",FASHION ONE
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/fashion-one-tv-tr.png" group-title="MODA",FASHION ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.iptv.rt.ru/images/ch4dj8rmhk079s3jpj90.png" group-title="MODA",Fashion World
 https://streams.uzunmuhalefet.com/stream/5ce022d5-5a43-4714-a4ed-e51883d46c83.m3u8
